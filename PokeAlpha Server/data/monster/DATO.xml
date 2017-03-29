@@ -1,0 +1,15 @@
+Exemplo de re-fazer os loots
+
+        <item id="12337" chance="100" countmax="70"/> --small stone
+		<item id="12196" chance="90" countmax="1"/> --stone orb -->
+		<item id="11451" chance="2" countmax="1"/> --earth stone -->
+        <item id="11445" chance="2" count="1" countmax="1"/> --rock stone
+        <item id="13867" chance="40" count="1" countmax="1"/> --strange rock
+		
+		
+		
+		'Chance' e de 1 ao 100
+		1 mais raro
+		100 comun
+
+	
