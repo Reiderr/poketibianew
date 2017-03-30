@@ -16,43 +16,43 @@ function onUse(cid, item, frompos, item2, topos)
 
     if item.uid == estatua1 then
         doPlayerSetTown(cid, 10)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Pallet.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Pallet.")
 
     elseif  item.uid == estatua2 then
         doPlayerSetTown(cid, 1)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Saffron.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Saffron.")
 
     elseif  item.uid == estatua3 then
         doPlayerSetTown(cid, 2)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Cerulean.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Cerulean.")
 
     elseif  item.uid == estatua4 then
         doPlayerSetTown(cid, 3)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Celladon.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Celladon.")
 
     elseif  item.uid == estatua5 then
         doPlayerSetTown(cid, 4)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Lavender.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Lavender.")
 
     elseif  item.uid == estatua6 then
         doPlayerSetTown(cid, 5)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Vermilion.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Vermilion.")
 
     elseif  item.uid == estatua7 then
         doPlayerSetTown(cid, 6)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Fuchsia.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Fuchsia.")
 
     elseif  item.uid == estatua8 then
         doPlayerSetTown(cid, 7)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Cinnabar.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Cinnabar.")
 
     elseif  item.uid == estatua9 then
         doPlayerSetTown(cid, 8)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Viridian.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Viridian.")
 
     elseif  item.uid == estatua10 then
         doPlayerSetTown(cid, 9)
-        doPlayerSendTextMessage(cid,22,"Você agora é um cidadão de Pewter.")
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Pewter.")
 
 
     end
