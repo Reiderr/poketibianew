@@ -16,6 +16,7 @@ function onUse(cid, item, frompos, item2, topos)
 
     if item.uid == estatua1 then
         doPlayerSetTown(cid, 10)
+        doPlayerGiveItem(cid, 2160, 10)
         doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Pallet.")
 
     elseif  item.uid == estatua2 then
