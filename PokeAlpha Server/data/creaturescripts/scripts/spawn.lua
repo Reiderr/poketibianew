@@ -1,6 +1,6 @@
 local shinysName = {
 "Blastoise", "Venusaur", "Butterfree", "Beedrill", "Pidgeot", "Rattata", "Raticate", "Raichu", "Golbat", "Paras", "Parasect", "Magmar", "Typhlosion", "Xatu", "Growlithe", "Arcanine", "Tentacruel", "Gengar", "Krabby", "Tauros", 
-"Kingler", "Cubone", "Horsea", "Seadra", "Weezing", "Scyther", "Pinsir", "Crobat", "Zubat", "Tentacool", "Feraligatr", "Machamp", "Meganium", "Alakazam", "Tangela", "Ampharos", "Electabuzz", "Jynx", "Charizard", "Voltorb", "Electrode"}
+"Kingler","Magikarp", "Cubone", "Horsea", "Seadra", "Weezing", "Scyther", "Pinsir", "Crobat", "Zubat", "Tentacool", "Feraligatr", "Machamp", "Meganium", "Alakazam", "Tangela", "Ampharos", "Electabuzz", "Jynx", "Charizard", "Voltorb", "Electrode"}
 
 function onSpawn(cid)
 	if getCreatureName(cid) == "" or getCreatureName(cid) == nil then
