@@ -386,7 +386,7 @@ allStatus = {"sleep", "stun", "string", "blind", "confusion", "poison", "burn", 
 
 passivepokemons = {"Shiny Tangela", "Eevee", "Caterpie", "Metapod", "Butterfree", 'Pidgey', 'Clefairy', 'Jigglypuff', 'Oddish', 'Gloom', 'Paras', 'Psyduck',
 	'Bellsprout', 'Weepinbell', 'Slowpoke', 'Slowbro', "Farfetch'd", 'Doduo', 'Dodrio', 'Seel', 'Shellder', 'Kangaskhan', 'Chansey', 'Tangela', 'Mr. Mime', 'Tauros',
-	'Ditto', 'Lapras', 'Porygon', 'Omanyte', 'Krabby'}
+	'Ditto', 'Lapras', 'Porygon', 'Omanyte', 'Krabby', "Ponyta", "Hoppip", "Sunkern"}
 
 
 ----------------------------------------- Headbutt
