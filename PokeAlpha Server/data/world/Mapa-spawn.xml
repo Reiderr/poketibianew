@@ -8185,12 +8185,12 @@
 	</spawn>
 	<spawn centerx="897" centery="1420" centerz="7" radius="5" />
 	<spawn centerx="542" centery="1444" centerz="7" radius="8">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Ponyta" x="5" y="2" z="7" spawntime="40" />
 		<monster name="Houndour" x="6" y="6" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-5" y="7" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="532" centery="1449" centerz="7" radius="5">
-		<monster name="Houndour" x="1" y="0" z="7" spawntime="62" />
-	</spawn>
+	<spawn centerx="532" centery="1449" centerz="7" radius="5" />
 	<spawn centerx="852" centery="1459" centerz="7" radius="7">
 		<monster name="Shellder" x="4" y="-3" z="7" spawntime="63" />
 		<monster name="Seel" x="-1" y="0" z="7" spawntime="60" />
@@ -8200,14 +8200,15 @@
 		<monster name="Shellder" x="0" y="1" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="544" centery="1461" centerz="7" radius="8">
-		<monster name="Slugma" x="-1" y="1" z="7" spawntime="62" />
-		<monster name="Houndour" x="4" y="5" z="7" spawntime="62" />
+		<monster name="Ponyta" x="2" y="-5" z="7" spawntime="40" />
+		<monster name="Ponyta" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Ponyta" x="-7" y="8" z="7" spawntime="40" />
+		<monster name="Ponyta" x="4" y="8" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="868" centery="1462" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Shellder" x="1" y="6" z="7" spawntime="63" />
 	</spawn>
-	<spawn centerx="543" centery="1463" centerz="7" radius="5" />
 	<spawn centerx="809" centery="1466" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Shellder" x="6" y="0" z="7" spawntime="1280" />
@@ -8219,7 +8220,7 @@
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="552" centery="1469" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="3" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="834" centery="1469" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
@@ -8229,10 +8230,10 @@
 		<monster name="Shellder" x="7" y="6" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="529" centery="1472" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="0" y="-2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="562" centery="1472" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="1" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="796" centery="1472" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="2" z="7" spawntime="60" />
@@ -8243,42 +8244,48 @@
 	</spawn>
 	<spawn centerx="557" centery="1473" centerz="7" radius="8" />
 	<spawn centerx="518" centery="1475" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="3" y="-1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-3" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="572" centery="1476" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="-2" z="7" spawntime="62" />
+		<monster name="Ponyta" x="3" y="-3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="892" centery="1477" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-2" z="7" spawntime="60" />
 		<monster name="Shellder" x="0" y="7" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="492" centery="1478" centerz="7" radius="5">
-		<monster name="Magcargo" x="-4" y="-4" z="7" spawntime="62" />
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="3" y="1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-4" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="482" centery="1480" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="1" y="-3" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-4" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="541" centery="1480" centerz="7" radius="8">
-		<monster name="Ponyta" x="-3" y="-4" z="7" spawntime="62" />
-		<monster name="Growlithe" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Ponyta" x="3" y="8" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-3" y="-3" z="7" spawntime="40" />
+		<monster name="Ponyta" x="0" y="5" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="8" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="585" centery="1480" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-3" y="-3" z="7" spawntime="40" />
+		<monster name="Rapidash" x="4" y="0" z="7" spawntime="40" />
+		<monster name="Ponyta" x="4" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="513" centery="1481" centerz="7" radius="7">
-		<monster name="Magcargo" x="-2" y="-2" z="7" spawntime="62" />
-		<monster name="Slugma" x="-7" y="2" z="7" spawntime="62" />
+		<monster name="Growlithe" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="469" centery="1482" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="0" z="7" spawntime="62" />
+		<monster name="Growlithe" x="1" y="-2" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-3" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="596" centery="1482" centerz="7" radius="5">
-		<monster name="Magcargo" x="-5" y="-5" z="7" spawntime="62" />
-		<monster name="Houndour" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Rapidash" x="1" y="4" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="505" centery="1483" centerz="7" radius="5" />
+	<spawn centerx="505" centery="1483" centerz="7" radius="5">
+		<monster name="Growlithe" x="0" y="-3" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-5" y="1" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="861" centery="1485" centerz="7" radius="7">
 		<monster name="Dewgong" x="0" y="-4" z="7" spawntime="63" />
 		<monster name="Cloyster" x="1" y="7" z="7" spawntime="63" />
@@ -8289,10 +8296,7 @@
 	<spawn centerx="901" centery="1486" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="458" centery="1487" centerz="7" radius="7">
-		<monster name="Magcargo" x="2" y="-2" z="7" spawntime="62" />
-		<monster name="Houndour" x="5" y="4" z="7" spawntime="62" />
-	</spawn>
+	<spawn centerx="458" centery="1487" centerz="7" radius="7" />
 	<spawn centerx="822" centery="1490" centerz="7" radius="7">
 		<monster name="Cloyster" x="-1" y="4" z="7" spawntime="63" />
 	</spawn>
@@ -8304,7 +8308,10 @@
 	</spawn>
 	<spawn centerx="463" centery="1492" centerz="7" radius="5" />
 	<spawn centerx="600" centery="1493" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-4" y="-2" z="7" spawntime="40" />
+		<monster name="Rapidash" x="2" y="1" z="7" spawntime="1280" />
+		<monster name="Rapidash" x="3" y="1" z="7" spawntime="40" />
+		<monster name="Ponyta" x="0" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="865" centery="1493" centerz="7" radius="7">
 		<monster name="Dewgong" x="3" y="0" z="7" spawntime="63" />
@@ -8325,11 +8332,11 @@
 		<monster name="Dewgong" x="4" y="6" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="454" centery="1499" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="541" centery="1499" centerz="7" radius="8">
-		<monster name="Growlithe" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-7" y="5" z="7" spawntime="62" />
+		<monster name="Charmander" x="0" y="-3" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="6" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="904" centery="1499" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-2" z="7" spawntime="60" />
@@ -8338,12 +8345,11 @@
 		<monster name="Dewgong" x="-2" y="2" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="605" centery="1502" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-2" y="-2" z="7" spawntime="40" />
+		<monster name="Rapidash" x="0" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="844" centery="1502" centerz="7" radius="7" />
-	<spawn centerx="552" centery="1503" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="0" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="552" centery="1503" centerz="7" radius="7" />
 	<spawn centerx="876" centery="1503" centerz="7" radius="7">
 		<monster name="Dewgong" x="1" y="-2" z="7" spawntime="63" />
 		<monster name="Cloyster" x="7" y="7" z="7" spawntime="63" />
@@ -8355,28 +8361,32 @@
 		<monster name="Shellder" x="-7" y="5" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="443" centery="1505" centerz="7" radius="5">
-		<monster name="Magcargo" x="-1" y="-1" z="7" spawntime="62" />
-		<monster name="Houndour" x="1" y="1" z="7" spawntime="62" />
-		<monster name="Houndoom" x="-1" y="5" z="7" spawntime="62" />
+		<monster name="Growlithe" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Arcanine" x="-1" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="864" centery="1506" centerz="7" radius="7">
 		<monster name="Cloyster" x="1" y="2" z="7" spawntime="63" />
 		<monster name="Cloyster" x="3" y="5" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="511" centery="1507" centerz="7" radius="7">
-		<monster name="Arcanine" x="0" y="-5" z="7" spawntime="60" />
-		<monster name="Growlithe" x="5" y="-2" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="0" y="-4" z="7" spawntime="40" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-1" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="786" centery="1507" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="576" centery="1508" centerz="7" radius="7">
-		<monster name="Ninetales" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="2" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="5" y="1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="3" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="430" centery="1510" centerz="7" radius="5">
-		<monster name="Houndoom" x="-5" y="-2" z="7" spawntime="62" />
-		<monster name="Magcargo" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Arcanine" x="2" y="-5" z="7" spawntime="120" />
+		<monster name="Arcanine" x="-5" y="-3" z="7" spawntime="120" />
+		<monster name="Arcanine" x="-1" y="1" z="7" spawntime="120" />
+		<monster name="Growlithe" x="1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="832" centery="1510" centerz="7" radius="7">
 		<monster name="Cloyster" x="-1" y="2" z="7" spawntime="63" />
@@ -8384,24 +8394,26 @@
 	<spawn centerx="853" centery="1510" centerz="7" radius="7" />
 	<spawn centerx="885" centery="1510" centerz="7" radius="7" />
 	<spawn centerx="462" centery="1511" centerz="7" radius="7">
-		<monster name="Houndoom" x="-3" y="1" z="7" spawntime="62" />
+		<monster name="Arcanine" x="-3" y="1" z="7" spawntime="120" />
+		<monster name="Growlithe" x="-6" y="6" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="615" centery="1511" centerz="7" radius="5">
-		<monster name="Magcargo" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-4" y="-3" z="7" spawntime="40" />
+		<monster name="Rapidash" x="4" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="918" centery="1511" centerz="7" radius="7">
 		<monster name="Seel" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="453" centery="1512" centerz="7" radius="5">
-		<monster name="Houndoom" x="0" y="-3" z="7" spawntime="62" />
+		<monster name="Arcanine" x="-1" y="0" z="7" spawntime="120" />
+		<monster name="Growlithe" x="-3" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="623" centery="1512" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="541" centery="1513" centerz="7" radius="8">
-		<monster name="Growlithe" x="-8" y="-1" z="7" spawntime="60" />
-		<monster name="Ponyta" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Charmander" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-4" y="-3" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="800" centery="1513" centerz="7" radius="7">
 		<monster name="Dewgong" x="2" y="-5" z="7" spawntime="63" />
@@ -8409,7 +8421,8 @@
 	</spawn>
 	<spawn centerx="441" centery="1515" centerz="7" radius="5" />
 	<spawn centerx="517" centery="1515" centerz="7" radius="7">
-		<monster name="Ponyta" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="0" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="810" centery="1515" centerz="7" radius="7">
 		<monster name="Dewgong" x="2" y="-3" z="7" spawntime="63" />
@@ -8421,32 +8434,34 @@
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="502" centery="1517" centerz="7" radius="7">
-		<monster name="Arcanine" x="-1" y="-6" z="7" spawntime="60" />
-		<monster name="Arcanine" x="3" y="4" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-3" y="7" z="7" spawntime="60" />
+		<monster name="Vulpix" x="5" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="5" z="7" spawntime="40" />
+		<monster name="Growlithe" x="3" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="559" centery="1517" centerz="7" radius="7">
-		<monster name="Arcanine" x="3" y="-3" z="7" spawntime="60" />
-		<monster name="Arcanine" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="0" y="2" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="585" centery="1517" centerz="7" radius="7">
-		<monster name="Ninetales" x="1" y="-5" z="7" spawntime="60" />
-		<monster name="Ninetales" x="6" y="6" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="2" y="-4" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="0" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="3" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="631" centery="1517" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ponyta" x="-3" y="1" z="7" spawntime="40" />
+		<monster name="Rapidash" x="0" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="865" centery="1518" centerz="7" radius="7">
 		<monster name="Cloyster" x="-2" y="0" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="430" centery="1519" centerz="7" radius="5">
-		<monster name="Houndoom" x="5" y="-3" z="7" spawntime="62" />
-		<monster name="Magcargo" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="3" y="0" z="7" spawntime="40" />
+		<monster name="Arcanine" x="-4" y="1" z="7" spawntime="120" />
+		<monster name="Arcanine" x="2" y="3" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="459" centery="1519" centerz="7" radius="5">
-		<monster name="Magcargo" x="1" y="0" z="7" spawntime="62" />
-		<monster name="Houndoom" x="-5" y="3" z="7" spawntime="62" />
-	</spawn>
+	<spawn centerx="459" centery="1519" centerz="7" radius="5" />
 	<spawn centerx="876" centery="1519" centerz="7" radius="7">
 		<monster name="Cloyster" x="0" y="2" z="7" spawntime="63" />
 	</spawn>
@@ -8454,47 +8469,54 @@
 		<monster name="Cloyster" x="0" y="2" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="637" centery="1521" centerz="7" radius="5">
-		<monster name="Magcargo" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Rapidash" x="3" y="0" z="7" spawntime="40" />
+		<monster name="Ponyta" x="2" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="780" centery="1523" centerz="7" radius="7">
 		<monster name="Shellder" x="2" y="-6" z="7" spawntime="63" />
 		<monster name="Seel" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="423" centery="1524" centerz="7" radius="5" />
+	<spawn centerx="423" centery="1524" centerz="7" radius="5">
+		<monster name="Arcanine" x="3" y="3" z="7" spawntime="120" />
+		<monster name="Growlithe" x="2" y="4" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="513" centery="1524" centerz="7" radius="7">
-		<monster name="Ponyta" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="595" centery="1524" centerz="7" radius="7">
-		<monster name="Charmander" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="815" centery="1524" centerz="7" radius="7">
 		<monster name="Dewgong" x="6" y="0" z="7" spawntime="63" />
 		<monster name="Dewgong" x="-3" y="6" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="443" centery="1525" centerz="7" radius="5">
-		<monster name="Magcargo" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="5" y="-2" z="7" spawntime="40" />
+		<monster name="Arcanine" x="1" y="3" z="7" spawntime="120" />
+		<monster name="Growlithe" x="-2" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="790" centery="1525" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="808" centery="1525" centerz="7" radius="7" />
 	<spawn centerx="531" centery="1526" centerz="7" radius="7">
-		<monster name="Growlithe" x="0" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-4" y="0" z="7" spawntime="1280" />
-		<monster name="Charmander" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="1" y="-1" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="451" centery="1527" centerz="7" radius="5" />
+	<spawn centerx="451" centery="1527" centerz="7" radius="5">
+		<monster name="Arcanine" x="2" y="-4" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="567" centery="1527" centerz="7" radius="7">
-		<monster name="Arcanine" x="4" y="-2" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1053" centery="1527" centerz="7" radius="7">
 		<monster name="Seel" x="-2" y="0" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="542" centery="1528" centerz="7" radius="8">
-		<monster name="Growlithe" x="2" y="-5" z="7" spawntime="60" />
-		<monster name="Ponyta" x="5" y="2" z="7" spawntime="60" />
-		<monster name="Growlithe" x="2" y="5" z="7" spawntime="60" />
-		<monster name="Charmander" x="-1" y="8" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="2" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-6" y="8" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="917" centery="1528" centerz="7" radius="7">
 		<monster name="Shellder" x="-7" y="-3" z="7" spawntime="63" />
@@ -8504,13 +8526,9 @@
 		<monster name="Seel" x="-1" y="0" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="430" centery="1529" centerz="7" radius="5">
-		<monster name="Houndoom" x="5" y="-3" z="7" spawntime="62" />
-		<monster name="Houndour" x="1" y="0" z="7" spawntime="62" />
-		<monster name="Slugma" x="-1" y="4" z="7" spawntime="62" />
+		<monster name="Growlithe" x="4" y="-2" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="644" centery="1529" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
-	</spawn>
+	<spawn centerx="644" centery="1529" centerz="7" radius="5" />
 	<spawn centerx="862" centery="1529" centerz="7" radius="7">
 		<monster name="Cloyster" x="1" y="1" z="7" spawntime="63" />
 	</spawn>
@@ -8518,16 +8536,15 @@
 		<monster name="Seel" x="1" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="499" centery="1530" centerz="7" radius="7">
-		<monster name="Charmander" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Growlithe" x="6" y="0" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1117" centery="1531" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="603" centery="1532" centerz="7" radius="7">
-		<monster name="Growlithe" x="4" y="1" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-4" y="5" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="0" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1098" centery="1532" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
@@ -8552,13 +8569,13 @@
 		<monster name="Seel" x="4" y="-4" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="529" centery="1537" centerz="7" radius="8">
-		<monster name="Growlithe" x="-7" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="1" y="1" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-7" y="7" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-6" y="-7" z="7" spawntime="40" />
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="564" centery="1538" centerz="7" radius="7">
-		<monster name="Ponyta" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-2" y="-1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-3" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="831" centery="1538" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
@@ -8568,35 +8585,33 @@
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="418" centery="1540" centerz="7" radius="5">
-		<monster name="Magcargo" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Arcanine" x="-4" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="492" centery="1540" centerz="7" radius="7">
-		<monster name="Charmander" x="-3" y="-5" z="7" spawntime="60" />
-		<monster name="Growlithe" x="7" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="647" centery="1540" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
-		<monster name="Magcargo" x="-3" y="5" z="7" spawntime="62" />
+		<monster name="Vulpix" x="-1" y="-5" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Ninetales" x="2" y="4" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="544" centery="1541" centerz="7" radius="7">
-		<monster name="Growlithe" x="6" y="-3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-6" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Growlithe" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Vulpix" x="2" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="620" centery="1541" centerz="7" radius="7">
-		<monster name="Growlithe" x="0" y="-3" z="7" spawntime="60" />
-		<monster name="Charmander" x="4" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="411" centery="1543" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="0" z="7" spawntime="62" />
-		<monster name="Magcargo" x="-5" y="4" z="7" spawntime="62" />
+		<monster name="Growlithe" x="2" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="892" centery="1543" centerz="7" radius="7">
 		<monster name="Shellder" x="1" y="1" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="479" centery="1544" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="786" centery="1544" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
@@ -8605,9 +8620,15 @@
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="401" centery="1545" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="2" y="1" z="7" spawntime="40" />
+		<monster name="Arcanine" x="1" y="2" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="505" centery="1545" centerz="7" radius="7" />
+	<spawn centerx="505" centery="1545" centerz="7" radius="7">
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-4" y="1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-1" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="7" y="5" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="839" centery="1545" centerz="7" radius="7">
 		<monster name="Shellder" x="0" y="1" z="7" spawntime="63" />
 	</spawn>
@@ -8616,22 +8637,27 @@
 		<monster name="Ponyta" x="6" y="6" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="519" centery="1547" centerz="7" radius="8">
-		<monster name="Ponyta" x="-5" y="-3" z="7" spawntime="60" />
-		<monster name="Charmander" x="6" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="2" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="651" centery="1547" centerz="7" radius="5">
-		<monster name="Houndour" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Vulpix" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Ninetales" x="-1" y="4" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="819" centery="1547" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="553" centery="1548" centerz="7" radius="7">
-		<monster name="Ponyta" x="0" y="3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="4" y="7" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-1" y="1" z="7" spawntime="40" />
+		<monster name="Charmander" x="1" y="6" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="608" centery="1548" centerz="7" radius="7">
-		<monster name="Typhlosion" x="-2" y="-2" z="7" spawntime="60" />
-		<monster name="Typhlosion" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="-2" y="-1" z="7" spawntime="40" />
+		<monster name="Charizard" x="1" y="0" z="7" spawntime="120" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="2" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="852" centery="1548" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="60" />
@@ -8639,14 +8665,15 @@
 		<monster name="Shellder" x="-1" y="3" z="7" spawntime="63" />
 	</spawn>
 	<spawn centerx="419" centery="1550" centerz="7" radius="7">
-		<monster name="Houndoom" x="-1" y="-1" z="7" spawntime="62" />
+		<monster name="Arcanine" x="-6" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1067" centery="1550" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="495" centery="1551" centerz="7" radius="7">
-		<monster name="Charmander" x="-4" y="0" z="7" spawntime="60" />
-		<monster name="Ponyta" x="6" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="2" y="2" z="7" spawntime="40" />
+		<monster name="Vulpix" x="5" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="831" centery="1551" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="-1" z="7" spawntime="60" />
@@ -8655,22 +8682,25 @@
 	<spawn centerx="1157" centery="1551" centerz="7" radius="7">
 		<monster name="Seel" x="1" y="0" z="7" spawntime="67" />
 	</spawn>
-	<spawn centerx="410" centery="1552" centerz="7" radius="5">
-		<monster name="Houndour" x="1" y="0" z="7" spawntime="62" />
-	</spawn>
+	<spawn centerx="410" centery="1552" centerz="7" radius="5" />
 	<spawn centerx="536" centery="1552" centerz="7" radius="8">
-		<monster name="Growlithe" x="-3" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-8" y="3" z="7" spawntime="40" />
+		<monster name="Vulpix" x="6" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="623" centery="1552" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Vulpix" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="2" z="7" spawntime="40" />
+		<monster name="Growlithe" x="1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="867" centery="1552" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="593" centery="1553" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="-7" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="3" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1059" centery="1553" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
@@ -8687,9 +8717,11 @@
 		<monster name="Growlithe" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="482" centery="1556" centerz="7" radius="7">
-		<monster name="Ponyta" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="555" centery="1556" centerz="7" radius="7" />
+	<spawn centerx="555" centery="1556" centerz="7" radius="7">
+		<monster name="Growlithe" x="-7" y="5" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="813" centery="1556" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -8697,7 +8729,9 @@
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="660" centery="1557" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Vulpix" x="-4" y="-3" z="7" spawntime="40" />
+		<monster name="Ninetales" x="-1" y="0" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-1" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="777" centery="1557" centerz="7" radius="7">
 		<monster name="Shellder" x="5" y="-5" z="7" spawntime="63" />
@@ -8710,7 +8744,7 @@
 		<monster name="Swinub" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="417" centery="1558" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="0" z="7" spawntime="62" />
+		<monster name="Growlithe" x="4" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="822" centery="1558" centerz="7" radius="7">
 		<monster name="Shellder" x="0" y="-2" z="7" spawntime="63" />
@@ -8731,12 +8765,11 @@
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="607" centery="1561" centerz="7" radius="7">
-		<monster name="Ponyta" x="-1" y="-3" z="7" spawntime="60" />
-		<monster name="Charmander" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="543" centery="1562" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Growlithe" x="2" y="7" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="4" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="873" centery="1562" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="-2" z="7" spawntime="60" />
@@ -8745,12 +8778,12 @@
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="507" centery="1563" centerz="7" radius="7">
-		<monster name="Growlithe" x="4" y="-6" z="7" spawntime="60" />
-		<monster name="Growlithe" x="2" y="5" z="7" spawntime="60" />
+		<monster name="Vulpix" x="0" y="-2" z="7" spawntime="40" />
+		<monster name="Growlithe" x="6" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="522" centery="1563" centerz="7" radius="7">
-		<monster name="Ponyta" x="2" y="-2" z="7" spawntime="60" />
-		<monster name="Growlithe" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="785" centery="1563" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="60" />
@@ -8762,18 +8795,18 @@
 	<spawn centerx="863" centery="1564" centerz="7" radius="7">
 		<monster name="Seel" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="481" centery="1565" centerz="7" radius="7" />
+	<spawn centerx="481" centery="1565" centerz="7" radius="7">
+		<monster name="Charmander" x="0" y="2" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="813" centery="1565" centerz="7" radius="7">
 		<monster name="Seel" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1090" centery="1565" centerz="7" radius="7" />
 	<spawn centerx="423" centery="1566" centerz="7" radius="7">
-		<monster name="Houndoom" x="2" y="-1" z="7" spawntime="62" />
-		<monster name="Houndour" x="1" y="7" z="7" spawntime="62" />
+		<monster name="Arcanine" x="-2" y="0" z="7" spawntime="120" />
+		<monster name="Growlithe" x="0" y="2" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="548" centery="1566" centerz="7" radius="7">
-		<monster name="Ponyta" x="5" y="-1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="548" centery="1566" centerz="7" radius="7" />
 	<spawn centerx="803" centery="1566" centerz="7" radius="7">
 		<monster name="Shellder" x="-2" y="1" z="7" spawntime="63" />
 		<monster name="Seel" x="-7" y="7" z="7" spawntime="60" />
@@ -8785,7 +8818,7 @@
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="584" centery="1567" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="7" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1009" centery="1567" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
@@ -8801,16 +8834,18 @@
 		<monster name="Seel" x="1" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="593" centery="1569" centerz="7" radius="7">
-		<monster name="Magmar" x="5" y="-2" z="7" spawntime="60" />
-		<monster name="Magmar" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Charizard" x="1" y="-3" z="7" spawntime="120" />
+		<monster name="Charmeleon" x="4" y="-1" z="7" spawntime="40" />
+		<monster name="Charizard" x="0" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="658" centery="1569" centerz="7" radius="5">
-		<monster name="Magcargo" x="-5" y="-1" z="7" spawntime="62" />
-		<monster name="Houndour" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="1" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Ninetales" x="-4" y="4" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="620" centery="1570" centerz="7" radius="7">
-		<monster name="Ponyta" x="1" y="-6" z="7" spawntime="60" />
-		<monster name="Charmander" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Growlithe" x="0" y="-3" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="-2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="883" centery="1572" centerz="7" radius="7">
 		<monster name="Shellder" x="3" y="-7" z="7" spawntime="63" />
@@ -8821,16 +8856,20 @@
 	</spawn>
 	<spawn centerx="465" centery="1573" centerz="7" radius="7">
 		<monster name="Growlithe" x="-7" y="0" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="2" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-3" y="5" z="7" spawntime="40" />
+		<monster name="Charmander" x="-4" y="6" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="607" centery="1573" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="7" y="6" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-1" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="424" centery="1574" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="5" z="7" spawntime="62" />
+		<monster name="Growlithe" x="2" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="475" centery="1574" centerz="7" radius="7">
-		<monster name="Ponyta" x="6" y="-1" z="7" spawntime="60" />
+		<monster name="Charmander" x="2" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="4" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="796" centery="1574" centerz="7" radius="7" />
 	<spawn centerx="1063" centery="1574" centerz="7" radius="7">
@@ -8838,13 +8877,9 @@
 		<monster name="Swinub" x="-7" y="7" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="523" centery="1575" centerz="7" radius="7">
-		<monster name="Charmander" x="-7" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Charmander" x="7" y="4" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="579" centery="1575" centerz="7" radius="7">
-		<monster name="Charmander" x="-3" y="-4" z="7" spawntime="60" />
-		<monster name="Ponyta" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="579" centery="1575" centerz="7" radius="7" />
 	<spawn centerx="1031" centery="1575" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
@@ -8853,55 +8888,52 @@
 	</spawn>
 	<spawn centerx="1124" centery="1575" centerz="7" radius="7" />
 	<spawn centerx="653" centery="1576" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Vulpix" x="0" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1003" centery="1576" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="1134" centery="1576" centerz="7" radius="7" />
 	<spawn centerx="460" centery="1578" centerz="7" radius="7">
-		<monster name="Ponyta" x="-5" y="3" z="7" spawntime="60" />
-		<monster name="Charmander" x="7" y="7" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-2" y="7" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="535" centery="1578" centerz="7" radius="7">
-		<monster name="Charmander" x="2" y="-3" z="7" spawntime="60" />
-		<monster name="Charmander" x="7" y="1" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-3" y="2" z="7" spawntime="60" />
-		<monster name="Growlithe" x="4" y="2" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="535" centery="1578" centerz="7" radius="7" />
 	<spawn centerx="1074" centery="1578" centerz="7" radius="7">
 		<monster name="Swinub" x="1" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="546" centery="1579" centerz="7" radius="7">
-		<monster name="Ponyta" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="2" y="2" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="510" centery="1580" centerz="7" radius="7">
-		<monster name="Ponyta" x="-6" y="0" z="7" spawntime="60" />
-		<monster name="Charmander" x="-4" y="7" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="510" centery="1580" centerz="7" radius="7" />
 	<spawn centerx="1056" centery="1580" centerz="7" radius="7" />
 	<spawn centerx="1166" centery="1580" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
-	<spawn centerx="425" centery="1581" centerz="7" radius="5" />
+	<spawn centerx="425" centery="1581" centerz="7" radius="5">
+		<monster name="Arcanine" x="1" y="2" z="7" spawntime="120" />
+		<monster name="Growlithe" x="2" y="5" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="627" centery="1581" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-2" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="3" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="641" centery="1581" centerz="7" radius="5">
-		<monster name="Magcargo" x="4" y="-1" z="7" spawntime="62" />
-		<monster name="Ponyta" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1094" centery="1581" centerz="7" radius="7" />
 	<spawn centerx="991" centery="1582" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="590" centery="1583" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="-2" z="7" spawntime="60" />
-		<monster name="Charmander" x="-5" y="3" z="7" spawntime="60" />
-		<monster name="Ponyta" x="4" y="7" z="7" spawntime="60" />
+		<monster name="Growlithe" x="1" y="-2" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="3" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="605" centery="1583" centerz="7" radius="7">
-		<monster name="Charmander" x="-6" y="-1" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1023" centery="1583" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="-1" z="7" spawntime="67" />
@@ -8910,45 +8942,43 @@
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="476" centery="1584" centerz="7" radius="7">
-		<monster name="Growlithe" x="-6" y="-2" z="7" spawntime="60" />
-		<monster name="Charmander" x="7" y="3" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-4" y="7" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-1" y="6" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1046" centery="1584" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="489" centery="1585" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="-3" z="7" spawntime="60" />
-		<monster name="Ponyta" x="3" y="5" z="7" spawntime="60" />
+		<monster name="Growlithe" x="0" y="2" z="7" spawntime="40" />
+		<monster name="Vulpix" x="2" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="618" centery="1585" centerz="7" radius="7">
-		<monster name="Growlithe" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-3" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="523" centery="1586" centerz="7" radius="7">
-		<monster name="Charmander" x="-2" y="-1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="523" centery="1586" centerz="7" radius="7" />
 	<spawn centerx="1013" centery="1586" centerz="7" radius="7">
 		<monster name="Swinub" x="-1" y="0" z="7" spawntime="67" />
 	</spawn>
-	<spawn centerx="516" centery="1587" centerz="7" radius="7">
-		<monster name="Ponyta" x="-1" y="7" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="516" centery="1587" centerz="7" radius="7" />
 	<spawn centerx="629" centery="1587" centerz="7" radius="5">
-		<monster name="Ponyta" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="653" centery="1587" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
-		<monster name="Magcargo" x="5" y="5" z="7" spawntime="62" />
+		<monster name="Vulpix" x="-5" y="-5" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="-4" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Ninetales" x="0" y="1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="426" centery="1588" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Growlithe" x="-4" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1068" centery="1588" centerz="7" radius="7">
 		<monster name="Swinub" x="-3" y="0" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="558" centery="1589" centerz="7" radius="7">
-		<monster name="Growlithe" x="0" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1119" centery="1589" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
@@ -8960,42 +8990,46 @@
 		<monster name="Charmander" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="573" centery="1591" centerz="7" radius="7">
-		<monster name="Charmander" x="-5" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-2" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="0" y="7" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="595" centery="1592" centerz="7" radius="7" />
+	<spawn centerx="595" centery="1592" centerz="7" radius="7">
+		<monster name="Charmander" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-1" y="0" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="438" centery="1593" centerz="7" radius="7" />
-	<spawn centerx="476" centery="1593" centerz="7" radius="7">
-		<monster name="Growlithe" x="4" y="0" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="476" centery="1593" centerz="7" radius="7" />
 	<spawn centerx="988" centery="1593" centerz="7" radius="7">
 		<monster name="Swinub" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1146" centery="1593" centerz="7" radius="7" />
 	<spawn centerx="420" centery="1594" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="0" z="7" spawntime="62" />
+		<monster name="Arcanine" x="-2" y="0" z="7" spawntime="120" />
+		<monster name="Growlithe" x="-4" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="630" centery="1594" centerz="7" radius="7" />
 	<spawn centerx="1001" centery="1594" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="444" centery="1596" centerz="7" radius="7">
-		<monster name="Charmander" x="5" y="2" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="444" centery="1596" centerz="7" radius="7" />
 	<spawn centerx="454" centery="1596" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="7" y="-4" z="7" spawntime="60" />
-		<monster name="Growlithe" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="1" y="3" z="7" spawntime="40" />
+		<monster name="Growlithe" x="3" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="411" centery="1597" centerz="7" radius="5">
-		<monster name="Magcargo" x="1" y="-2" z="7" spawntime="62" />
 		<monster name="Houndour" x="0" y="0" z="7" spawntime="62" />
 	</spawn>
 	<spawn centerx="469" centery="1597" centerz="7" radius="7">
-		<monster name="Ponyta" x="4" y="5" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-2" y="-5" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="659" centery="1597" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="3" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1021" centery="1597" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="2" z="7" spawntime="60" />
@@ -9008,12 +9042,15 @@
 	</spawn>
 	<spawn centerx="512" centery="1599" centerz="7" radius="7" />
 	<spawn centerx="611" centery="1599" centerz="7" radius="7">
-		<monster name="Ninetales" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Charizard" x="0" y="1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1133" centery="1600" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
 	</spawn>
-	<spawn centerx="565" centery="1601" centerz="7" radius="7" />
+	<spawn centerx="565" centery="1601" centerz="7" radius="7">
+		<monster name="Charmander" x="-2" y="-1" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="1103" centery="1601" centerz="7" radius="7">
 		<monster name="Swinub" x="1" y="0" z="7" spawntime="67" />
 	</spawn>
@@ -9023,48 +9060,45 @@
 	<spawn centerx="1011" centery="1602" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="666" centery="1603" centerz="7" radius="5">
-		<monster name="Houndour" x="-2" y="2" z="7" spawntime="62" />
+	<spawn centerx="666" centery="1603" centerz="7" radius="5" />
+	<spawn centerx="417" centery="1604" centerz="7" radius="5" />
+	<spawn centerx="489" centery="1606" centerz="7" radius="7">
+		<monster name="Charmeleon" x="4" y="-2" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="-5" y="-1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="-5" y="1" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="417" centery="1604" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
-		<monster name="Houndoom" x="-5" y="3" z="7" spawntime="62" />
-	</spawn>
-	<spawn centerx="494" centery="1604" centerz="7" radius="7" />
 	<spawn centerx="600" centery="1606" centerz="7" radius="7">
-		<monster name="Ninetales" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Charizard" x="0" y="1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="576" centery="1607" centerz="7" radius="7">
-		<monster name="Charmander" x="1" y="-6" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="2" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="624" centery="1607" centerz="7" radius="7">
-		<monster name="Growlithe" x="4" y="-5" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="406" centery="1608" centerz="7" radius="7">
-		<monster name="Magcargo" x="-1" y="2" z="7" spawntime="62" />
-		<monster name="Houndour" x="7" y="4" z="7" spawntime="62" />
+		<monster name="Growlithe" x="4" y="1" z="7" spawntime="40" />
+		<monster name="Arcanine" x="5" y="5" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="985" centery="1608" centerz="7" radius="7" />
 	<spawn centerx="463" centery="1610" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="1" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-2" y="7" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-2" y="1" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="510" centery="1610" centerz="7" radius="7">
-		<monster name="Ponyta" x="2" y="7" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="510" centery="1610" centerz="7" radius="7" />
 	<spawn centerx="660" centery="1610" centerz="7" radius="7">
-		<monster name="Houndoom" x="-2" y="-1" z="7" spawntime="60" />
-		<monster name="Slugma" x="1" y="6" z="7" spawntime="62" />
+		<monster name="Ninetales" x="1" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="0" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1093" centery="1610" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="1" z="7" spawntime="67" />
 		<monster name="Swinub" x="4" y="6" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="446" centery="1611" centerz="7" radius="7">
-		<monster name="Ponyta" x="0" y="-4" z="7" spawntime="60" />
-		<monster name="Growlithe" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="997" centery="1611" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
@@ -9080,82 +9114,83 @@
 	</spawn>
 	<spawn centerx="413" centery="1613" centerz="7" radius="5" />
 	<spawn centerx="562" centery="1613" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Charmander" x="3" y="6" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
+		<monster name="Charmander" x="7" y="7" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="543" centery="1615" centerz="7" radius="7">
-		<monster name="Typhlosion" x="2" y="0" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="543" centery="1615" centerz="7" radius="7" />
 	<spawn centerx="590" centery="1615" centerz="7" radius="7">
-		<monster name="Ninetales" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="0" y="-1" z="7" spawntime="40" />
+		<monster name="Charizard" x="2" y="-1" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="661" centery="1615" centerz="7" radius="5" />
 	<spawn centerx="1032" centery="1616" centerz="7" radius="7">
 		<monster name="Swinub" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="496" centery="1617" centerz="7" radius="7">
-		<monster name="Ponyta" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="1" y="-2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="612" centery="1617" centerz="7" radius="7">
-		<monster name="Growlithe" x="2" y="-3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-7" y="1" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-4" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1097" centery="1617" centerz="7" radius="7" />
 	<spawn centerx="570" centery="1619" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-6" y="5" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="517" centery="1620" centerz="7" radius="7">
-		<monster name="Ponyta" x="7" y="6" z="7" spawntime="60" />
+	<spawn centerx="517" centery="1620" centerz="7" radius="7" />
+	<spawn centerx="657" centery="1620" centerz="7" radius="5">
+		<monster name="Ninetales" x="1" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="484" centery="1622" centerz="7" radius="7">
-		<monster name="Ponyta" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="-1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="405" centery="1623" centerz="7" radius="5">
-		<monster name="Slugma" x="-2" y="0" z="7" spawntime="62" />
+		<monster name="Growlithe" x="2" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="457" centery="1623" centerz="7" radius="7">
-		<monster name="Ponyta" x="-5" y="3" z="7" spawntime="60" />
+		<monster name="Vulpix" x="5" y="0" z="7" spawntime="40" />
+		<monster name="Growlithe" x="6" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="986" centery="1623" centerz="7" radius="7" />
 	<spawn centerx="600" centery="1625" centerz="7" radius="7">
-		<monster name="Ponyta" x="-2" y="-2" z="7" spawntime="60" />
-		<monster name="Charmander" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="528" centery="1626" centerz="7" radius="7" />
 	<spawn centerx="1080" centery="1626" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="444" centery="1627" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Growlithe" x="4" y="0" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="2" y="3" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="469" centery="1627" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="-3" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="469" centery="1627" centerz="7" radius="7" />
 	<spawn centerx="589" centery="1628" centerz="7" radius="7">
-		<monster name="Growlithe" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="-6" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="651" centery="1628" centerz="7" radius="5">
-		<monster name="Magcargo" x="5" y="-5" z="7" spawntime="62" />
-		<monster name="Houndour" x="-1" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="2" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="560" centery="1629" centerz="7" radius="7">
-		<monster name="Growlithe" x="-4" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="6" y="1" z="7" spawntime="60" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="499" centery="1630" centerz="7" radius="7">
-		<monster name="Rapidash" x="4" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="-1" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="634" centery="1630" centerz="7" radius="5">
-		<monster name="Houndoom" x="-2" y="-2" z="7" spawntime="62" />
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="-1" y="1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="0" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="407" centery="1631" centerz="7" radius="5">
-		<monster name="Houndoom" x="4" y="-5" z="7" spawntime="62" />
-		<monster name="Houndour" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Arcanine" x="0" y="-2" z="7" spawntime="120" />
+		<monster name="Growlithe" x="4" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="511" centery="1635" centerz="7" radius="7">
-		<monster name="Rapidash" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="0" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="996" centery="1635" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="1" z="7" spawntime="67" />
@@ -9167,15 +9202,15 @@
 		<monster name="Seel" x="1" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="412" centery="1636" centerz="7" radius="7">
-		<monster name="Magcargo" x="4" y="-3" z="7" spawntime="62" />
-		<monster name="Slugma" x="2" y="5" z="7" spawntime="62" />
+		<monster name="Magby" x="5" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="624" centery="1636" centerz="7" radius="5">
-		<monster name="Magcargo" x="4" y="-3" z="7" spawntime="62" />
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Ninetales" x="0" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="645" centery="1636" centerz="7" radius="5">
-		<monster name="Slugma" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Vulpix" x="-1" y="1" z="7" spawntime="40" />
+		<monster name="Ninetales" x="0" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1008" centery="1636" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="-1" z="7" spawntime="67" />
@@ -9186,216 +9221,263 @@
 		<monster name="Seel" x="2" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="583" centery="1637" centerz="7" radius="7">
-		<monster name="Charmander" x="-6" y="-2" z="7" spawntime="60" />
-		<monster name="Ponyta" x="4" y="3" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-2" y="-5" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="497" centery="1638" centerz="7" radius="7" />
+	<spawn centerx="497" centery="1638" centerz="7" radius="7">
+		<monster name="Charizard" x="-1" y="1" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="531" centery="1638" centerz="7" radius="7">
-		<monster name="Ponyta" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Vulpix" x="1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="552" centery="1638" centerz="7" radius="7">
-		<monster name="Ponyta" x="-4" y="-4" z="7" spawntime="60" />
-		<monster name="Growlithe" x="7" y="-1" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-7" y="3" z="7" spawntime="60" />
+		<monster name="Growlithe" x="-5" y="-1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="7" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1040" centery="1639" centerz="7" radius="7">
 		<monster name="Seel" x="0" y="2" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="455" centery="1640" centerz="7" radius="7">
-		<monster name="Growlithe" x="-2" y="-5" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
+		<monster name="Vulpix" x="2" y="2" z="7" spawntime="40" />
+		<monster name="Growlithe" x="1" y="3" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="542" centery="1640" centerz="7" radius="7" />
+	<spawn centerx="542" centery="1640" centerz="7" radius="7">
+		<monster name="Charmander" x="-2" y="0" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="606" centery="1640" centerz="7" radius="7">
-		<monster name="Charizard" x="-6" y="-2" z="7" spawntime="60" />
-		<monster name="Typhlosion" x="-2" y="2" z="7" spawntime="60" />
-		<monster name="Charizard" x="5" y="4" z="7" spawntime="60" />
+		<monster name="Charizard" x="-1" y="-2" z="7" spawntime="120" />
+		<monster name="Charizard" x="-1" y="4" z="7" spawntime="120" />
+		<monster name="Charmeleon" x="-3" y="6" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="468" centery="1641" centerz="7" radius="7">
-		<monster name="Growlithe" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Ponyta" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Vulpix" x="3" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="3" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1010" centery="1641" centerz="7" radius="7" />
-	<spawn centerx="414" centery="1642" centerz="7" radius="5" />
+	<spawn centerx="414" centery="1642" centerz="7" radius="5">
+		<monster name="Magby" x="0" y="2" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="633" centery="1644" centerz="7" radius="5">
-		<monster name="Houndour" x="-3" y="-2" z="7" spawntime="62" />
+		<monster name="Ninetales" x="-2" y="0" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="644" centery="1645" centerz="7" radius="5">
 		<monster name="Houndoom" x="4" y="-3" z="7" spawntime="62" />
-		<monster name="Magcargo" x="-2" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="-2" y="0" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="574" centery="1646" centerz="7" radius="7">
-		<monster name="Ponyta" x="-5" y="-3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-6" y="-2" z="7" spawntime="40" />
+		<monster name="Charmander" x="-1" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="624" centery="1646" centerz="7" radius="7">
-		<monster name="Houndoom" x="-3" y="-1" z="7" spawntime="62" />
-		<monster name="Magcargo" x="0" y="4" z="7" spawntime="62" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Ninetales" x="2" y="2" z="7" spawntime="120" />
+		<monster name="Vulpix" x="5" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1026" centery="1646" centerz="7" radius="7">
 		<monster name="Seel" x="-1" y="0" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="423" centery="1647" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magby" x="0" y="-2" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="0" z="7" spawntime="120" />
+		<monster name="Magby" x="1" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="602" centery="1647" centerz="7" radius="7">
-		<monster name="Typhlosion" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Charizard" x="-2" y="6" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1056" centery="1647" centerz="7" radius="7">
 		<monster name="Seel" x="2" y="1" z="7" spawntime="67" />
 	</spawn>
-	<spawn centerx="563" centery="1648" centerz="7" radius="7" />
+	<spawn centerx="563" centery="1648" centerz="7" radius="7">
+		<monster name="Growlithe" x="-4" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="431" centery="1652" centerz="7" radius="7">
-		<monster name="Magcargo" x="0" y="-2" z="7" spawntime="62" />
-		<monster name="Houndour" x="4" y="7" z="7" spawntime="62" />
+		<monster name="Magmar" x="-1" y="-2" z="7" spawntime="120" />
+		<monster name="Magby" x="4" y="0" z="7" spawntime="40" />
+		<monster name="Magmar" x="-2" y="5" z="7" spawntime="120" />
+		<monster name="Magby" x="2" y="5" z="7" spawntime="40" />
+		<monster name="Magmar" x="6" y="5" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="639" centery="1652" centerz="7" radius="7">
-		<monster name="Houndoom" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Ninetales" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="462" centery="1653" centerz="7" radius="7">
-		<monster name="Ponyta" x="-6" y="-5" z="7" spawntime="60" />
-		<monster name="Growlithe" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Charmander" x="1" y="0" z="7" spawntime="1536" />
+		<monster name="Charmander" x="1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="477" centery="1653" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="-5" z="7" spawntime="60" />
-		<monster name="Charmander" x="-4" y="-4" z="7" spawntime="60" />
-		<monster name="Ponyta" x="3" y="7" z="7" spawntime="60" />
+		<monster name="Vulpix" x="0" y="-4" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="6" y="1" z="7" spawntime="40" />
+		<monster name="Growlithe" x="1" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="527" centery="1653" centerz="7" radius="7">
-		<monster name="Growlithe" x="4" y="-7" z="7" spawntime="60" />
-		<monster name="Ponyta" x="-3" y="2" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-3" y="7" z="7" spawntime="60" />
+		<monster name="Growlithe" x="5" y="-5" z="7" spawntime="40" />
+		<monster name="Charmander" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="-7" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="548" centery="1653" centerz="7" radius="7">
-		<monster name="Ponyta" x="7" y="-3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Charmander" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="628" centery="1654" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="2" y="1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="-4" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="505" centery="1656" centerz="7" radius="7">
-		<monster name="Growlithe" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Ponyta" x="7" y="7" z="7" spawntime="60" />
+		<monster name="Growlithe" x="5" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="0" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="593" centery="1657" centerz="7" radius="7" />
+	<spawn centerx="593" centery="1657" centerz="7" radius="7">
+		<monster name="Charmeleon" x="-2" y="1" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="492" centery="1658" centerz="7" radius="7">
-		<monster name="Ponyta" x="4" y="-3" z="7" spawntime="60" />
-		<monster name="Growlithe" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Growlithe" x="4" y="-2" z="7" spawntime="40" />
+		<monster name="Charmander" x="1" y="-1" z="7" spawntime="40" />
+		<monster name="Charmander" x="2" y="5" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="435" centery="1660" centerz="7" radius="5" />
+	<spawn centerx="435" centery="1660" centerz="7" radius="5">
+		<monster name="Magby" x="1" y="3" z="7" spawntime="40" />
+		<monster name="Magmar" x="2" y="5" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="519" centery="1661" centerz="7" radius="7">
-		<monster name="Charmander" x="6" y="5" z="7" spawntime="60" />
+		<monster name="Vulpix" x="-6" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="579" centery="1661" centerz="7" radius="7">
-		<monster name="Charizard" x="-6" y="-1" z="7" spawntime="60" />
-		<monster name="Typhlosion" x="6" y="0" z="7" spawntime="60" />
-		<monster name="Charizard" x="0" y="6" z="7" spawntime="60" />
+		<monster name="Charizard" x="-3" y="0" z="7" spawntime="120" />
+		<monster name="Charmeleon" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="620" centery="1663" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Ninetales" x="1" y="-1" z="7" spawntime="120" />
+		<monster name="Vulpix" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-4" y="5" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="535" centery="1664" centerz="7" radius="7">
-		<monster name="Ponyta" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Vulpix" x="4" y="-3" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="444" centery="1665" centerz="7" radius="7">
-		<monster name="Magcargo" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magby" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Magmar" x="1" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="495" centery="1665" centerz="7" radius="7">
-		<monster name="Growlithe" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Charmander" x="4" y="4" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="495" centery="1665" centerz="7" radius="7" />
 	<spawn centerx="572" centery="1670" centerz="7" radius="7">
-		<monster name="Typhlosion" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="2" y="0" z="7" spawntime="40" />
+		<monster name="Charizard" x="1" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="513" centery="1671" centerz="7" radius="7">
+		<monster name="Magby" x="1" y="-1" z="7" spawntime="40" />
 		<monster name="Charmander" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Magby" x="-3" y="4" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="611" centery="1672" centerz="7" radius="5">
-		<monster name="Houndoom" x="1" y="-5" z="7" spawntime="62" />
-		<monster name="Houndour" x="2" y="3" z="7" spawntime="62" />
+		<monster name="Ninetales" x="2" y="0" z="7" spawntime="120" />
+		<monster name="Vulpix" x="1" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="549" centery="1673" centerz="7" radius="7">
-		<monster name="Magmar" x="-5" y="-2" z="7" spawntime="60" />
-		<monster name="Magmar" x="4" y="-2" z="7" spawntime="60" />
+		<monster name="Charmeleon" x="1" y="0" z="7" spawntime="40" />
+		<monster name="Charmeleon" x="-2" y="1" z="7" spawntime="40" />
+		<monster name="Charmander" x="0" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="446" centery="1675" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
-		<monster name="Houndoom" x="5" y="2" z="7" spawntime="62" />
+		<monster name="Magby" x="0" y="-2" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="508" centery="1680" centerz="7" radius="7">
-		<monster name="Charmander" x="-1" y="0" z="7" spawntime="60" />
-		<monster name="Magcargo" x="5" y="4" z="7" spawntime="62" />
+		<monster name="Magby" x="-1" y="2" z="7" spawntime="40" />
+		<monster name="Magby" x="7" y="7" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="611" centery="1682" centerz="7" radius="5">
-		<monster name="Magcargo" x="-1" y="-1" z="7" spawntime="62" />
+		<monster name="Vulpix" x="2" y="-4" z="7" spawntime="40" />
+		<monster name="Vulpix" x="-5" y="-2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="458" centery="1684" centerz="7" radius="5">
-		<monster name="Slugma" x="-1" y="-1" z="7" spawntime="62" />
+		<monster name="Magby" x="-2" y="0" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="575" centery="1685" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="1" z="7" spawntime="120" />
+		<monster name="Magby" x="-1" y="2" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="601" centery="1686" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="2" y="-1" z="7" spawntime="40" />
+		<monster name="Magby" x="-1" y="3" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="584" centery="1687" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="518" centery="1688" centerz="7" radius="5">
-		<monster name="Slugma" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="465" centery="1689" centerz="7" radius="7">
-		<monster name="Magcargo" x="1" y="-4" z="7" spawntime="62" />
-		<monster name="Houndour" x="5" y="5" z="7" spawntime="62" />
+		<monster name="Magby" x="-1" y="-1" z="7" spawntime="40" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="4" y="4" z="7" spawntime="40" />
+		<monster name="Magmar" x="5" y="5" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="593" centery="1689" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="-1" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="565" centery="1692" centerz="7" radius="5">
-		<monster name="Magcargo" x="4" y="-5" z="7" spawntime="62" />
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magmar" x="-1" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="-2" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="508" centery="1694" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="1" y="-5" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="470" centery="1695" centerz="7" radius="5" />
 	<spawn centerx="527" centery="1695" centerz="7" radius="5">
-		<monster name="Houndour" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magby" x="-3" y="0" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="602" centery="1695" centerz="7" radius="5">
-		<monster name="Magcargo" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="-1" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="478" centery="1697" centerz="7" radius="7">
-		<monster name="Magcargo" x="1" y="0" z="7" spawntime="62" />
-		<monster name="Slugma" x="0" y="6" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="-1" y="0" z="7" spawntime="40" />
+		<monster name="Magmar" x="0" y="6" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="557" centery="1698" centerz="7" radius="5">
-		<monster name="Houndour" x="2" y="-1" z="7" spawntime="62" />
-		<monster name="Houndoom" x="-5" y="3" z="7" spawntime="62" />
+		<monster name="Magmar" x="-1" y="1" z="7" spawntime="120" />
+		<monster name="Magby" x="-3" y="3" z="7" spawntime="40" />
 	</spawn>
-	<spawn centerx="478" centery="1704" centerz="7" radius="5" />
+	<spawn centerx="478" centery="1704" centerz="7" radius="5">
+		<monster name="Magby" x="2" y="2" z="7" spawntime="40" />
+	</spawn>
 	<spawn centerx="525" centery="1704" centerz="7" radius="5">
-		<monster name="Slugma" x="0" y="-1" z="7" spawntime="62" />
-		<monster name="Houndoom" x="4" y="3" z="7" spawntime="62" />
+		<monster name="Magmar" x="1" y="0" z="7" spawntime="120" />
+		<monster name="Magby" x="3" y="0" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="506" centery="1706" centerz="7" radius="5">
-		<monster name="Magcargo" x="3" y="-5" z="7" spawntime="62" />
-		<monster name="Slugma" x="0" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="0" y="-3" z="7" spawntime="40" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="548" centery="1709" centerz="7" radius="5">
-		<monster name="Slugma" x="1" y="-1" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="1" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="537" centery="1711" centerz="7" radius="5">
-		<monster name="Magcargo" x="5" y="-4" z="7" spawntime="62" />
-		<monster name="Houndour" x="0" y="-1" z="7" spawntime="62" />
+		<monster name="Magby" x="-2" y="-1" z="7" spawntime="40" />
+		<monster name="Magmar" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="486" centery="1712" centerz="7" radius="5">
-		<monster name="Houndour" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Magmar" x="0" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="2" y="1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="503" centery="1715" centerz="7" radius="5">
-		<monster name="Houndour" x="-1" y="1" z="7" spawntime="62" />
+		<monster name="Magby" x="0" y="-2" z="7" spawntime="40" />
+		<monster name="Magmar" x="1" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="493" centery="1716" centerz="7" radius="5">
-		<monster name="Slugma" x="-1" y="0" z="7" spawntime="62" />
+		<monster name="Magmar" x="1" y="-1" z="7" spawntime="120" />
+		<monster name="Magby" x="2" y="-1" z="7" spawntime="40" />
 	</spawn>
 	<spawn centerx="1146" centery="801" centerz="8" radius="7">
 		<monster name="Marowak" x="-3" y="-1" z="8" spawntime="60" />
