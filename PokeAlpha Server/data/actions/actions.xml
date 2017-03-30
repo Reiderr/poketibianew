@@ -305,4 +305,7 @@
 -- PEDRAS DE EVO
 	<action itemid="11441-11454;12232;12242;12244;12417;12419;12401-12414" event="script" value="evolution.lua" allowfaruse="1"/>
 
+-- Troca de cidade
+	<action actionid="3697" script="templechange.lua" />
+
   </actions>
