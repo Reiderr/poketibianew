@@ -6950,17 +6950,17 @@
 	</spawn>
 	<spawn centerx="589" centery="1157" centerz="7" radius="5" />
 	<spawn centerx="619" centery="1157" centerz="7" radius="5">
+		<monster name="Slowpoke" x="2" y="2" z="7" spawntime="60" />
 		<monster name="Caterpie" x="2" y="3" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="632" centery="1157" centerz="7" radius="5">
+		<monster name="Slowpoke" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="540" centery="1158" centerz="7" radius="5">
 		<monster name="Pidgey" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="553" centery="1158" centerz="7" radius="5">
 		<monster name="Pidgey" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="633" centery="1158" centerz="7" radius="5">
-		<monster name="Krabby" x="3" y="0" z="7" spawntime="45" />
-		<monster name="Caterpie" x="-3" y="2" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="736" centery="1158" centerz="7" radius="5">
 		<monster name="Totodile" x="5" y="0" z="7" spawntime="60" />
@@ -7018,8 +7018,8 @@
 		<monster name="Pidgey" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="677" centery="1166" centerz="7" radius="5" />
-	<spawn centerx="638" centery="1169" centerz="7" radius="5">
-		<monster name="Krabby" x="2" y="2" z="7" spawntime="45" />
+	<spawn centerx="642" centery="1169" centerz="7" radius="5">
+		<monster name="Krabby" x="-2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1052" centery="1169" centerz="7" radius="5">
 		<monster name="Gloom" x="-3" y="-4" z="7" spawntime="60" />
@@ -7077,19 +7077,17 @@
 		<monster name="Krabby" x="2" y="-4" z="7" spawntime="60" />
 		<monster name="Krabby" x="1" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="640" centery="1178" centerz="7" radius="5">
-		<monster name="Krabby" x="-2" y="2" z="7" spawntime="45" />
-	</spawn>
 	<spawn centerx="832" centery="1178" centerz="7" radius="5" />
-	<spawn centerx="617" centery="1179" centerz="7" radius="5">
-		<monster name="Caterpie" x="3" y="2" z="7" spawntime="45" />
-	</spawn>
+	<spawn centerx="617" centery="1179" centerz="7" radius="5" />
 	<spawn centerx="702" centery="1179" centerz="7" radius="5">
 		<monster name="Krabby" x="-4" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1058" centery="1179" centerz="7" radius="5">
 		<monster name="Beedrill" x="-2" y="0" z="7" spawntime="60" />
 		<monster name="Caterpie" x="4" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="630" centery="1180" centerz="7" radius="2">
+		<npc name="Guru" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1030" centery="1180" centerz="7" radius="5">
 		<monster name="Sentret" x="-3" y="0" z="7" spawntime="60" />
@@ -7099,9 +7097,6 @@
 	</spawn>
 	<spawn centerx="951" centery="1181" centerz="7" radius="1">
 		<npc name="StoneSeller" x="0" y="0" z="7" spawntime="15" />
-	</spawn>
-	<spawn centerx="629" centery="1182" centerz="7" radius="5">
-		<npc name="Guru" x="0" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="806" centery="1182" centerz="7" radius="5">
 		<monster name="Poliwag" x="0" y="1" z="7" spawntime="60" />
@@ -7120,6 +7115,9 @@
 	</spawn>
 	<spawn centerx="818" centery="1185" centerz="7" radius="5">
 		<monster name="Poliwag" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="621" centery="1186" centerz="7" radius="5">
+		<monster name="Krabby" x="4" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1043" centery="1186" centerz="7" radius="5">
 		<monster name="Metapod" x="0" y="-1" z="7" spawntime="60" />
