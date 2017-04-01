@@ -214,10 +214,10 @@ blessingReductionDecreament = 5
 eachBlessReduction = 8
 
 experienceStages = true
-rateExperience = 1000
-premiumrateExperience = 2000
-ratePremiumExperience = 2000
-rateExperienceFromPlayers = 200
+rateExperience = 0
+premiumrateExperience = 100
+ratePremiumExperience = 100
+rateExperienceFromPlayers = 0
 rateSkill = 1
 rateMagic = 1.0
 rateLoot = 15

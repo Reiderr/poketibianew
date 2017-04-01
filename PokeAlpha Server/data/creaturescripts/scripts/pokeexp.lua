@@ -1,9 +1,4 @@
-local function playerAddExp(cid, exp)
-	doPlayerAddExp(cid, exp)
-	doSendAnimatedText(getThingPos(cid), exp, 215)
-end
-
-
+--[[
 function onDeath(cid, corpse, deathList)
         
 	--if not isCreature(cid) then return true end
@@ -24,17 +19,17 @@ if isCreature(pk) then
       for i = 1, #party do
           if isInArray(list, party[i]) then		     
 if getPlayerLevel(pk) <= 50 then
-             playerAddExp(party[i], expTotal * 200)  
+             playerAddExp(party[i], expTotal * 2)
 elseif getPlayerLevel(pk) >= 51 and getPlayerLevel(pk) <= 75 then
-             playerAddExp(party[i], expTotal * 130)
+             playerAddExp(party[i], expTotal * 1.3)
 elseif getPlayerLevel(pk) >= 76 and getPlayerLevel(pk) <= 100 then
-             playerAddExp(party[i], expTotal * 80)
+             playerAddExp(party[i], expTotal * 8)
 elseif getPlayerLevel(pk) >= 101 and getPlayerLevel(pk) <= 150 then
-             playerAddExp(party[i], expTotal * 40)
+             playerAddExp(party[i], expTotal * 4)
 elseif getPlayerLevel(pk) >= 151 and getPlayerLevel(pk) <= 250 then
-             playerAddExp(party[i], expTotal * 20)
+             playerAddExp(party[i], expTotal * 2)
 elseif getPlayerLevel(pk) >= 251 and getPlayerLevel(pk) <= 350 then
-             playerAddExp(party[i], expTotal * 10)
+             playerAddExp(party[i], expTotal * 1)
 elseif getPlayerLevel(pk) >= 351 then
              playerAddExp(party[i], expTotal * 5)
 			 end
@@ -42,19 +37,19 @@ elseif getPlayerLevel(pk) >= 351 then
       end
    elseif not isInParty(pk) then
 if getPlayerLevel(pk) <= 50 then
-playerAddExp(pk, math.floor(200 * givenexp * getDamageMapPercent(pk, cid)))
-elseif getPlayerLevel(pk) >= 51 and getPlayerLevel(pk) <= 75 then
-playerAddExp(pk, math.floor(130 * givenexp * getDamageMapPercent(pk, cid)))
-elseif getPlayerLevel(pk) >= 76 and getPlayerLevel(pk) <= 100 then
-playerAddExp(pk, math.floor(80 * givenexp * getDamageMapPercent(pk, cid)))
-elseif getPlayerLevel(pk) >= 101 and getPlayerLevel(pk) <= 150 then
-playerAddExp(pk, math.floor(40 * givenexp * getDamageMapPercent(pk, cid)))
-elseif getPlayerLevel(pk) >= 151 and getPlayerLevel(pk) <= 250 then
 playerAddExp(pk, math.floor(20 * givenexp * getDamageMapPercent(pk, cid)))
+elseif getPlayerLevel(pk) >= 51 and getPlayerLevel(pk) <= 75 then
+playerAddExp(pk, math.floor(9 * givenexp * getDamageMapPercent(pk, cid)))
+elseif getPlayerLevel(pk) >= 76 and getPlayerLevel(pk) <= 100 then
+playerAddExp(pk, math.floor(8 * givenexp * getDamageMapPercent(pk, cid)))
+elseif getPlayerLevel(pk) >= 101 and getPlayerLevel(pk) <= 150 then
+playerAddExp(pk, math.floor(7 * givenexp * getDamageMapPercent(pk, cid)))
+elseif getPlayerLevel(pk) >= 151 and getPlayerLevel(pk) <= 250 then
+playerAddExp(pk, math.floor(6 * givenexp * getDamageMapPercent(pk, cid)))
 elseif getPlayerLevel(pk) >= 251 and getPlayerLevel(pk) <= 350 then
-playerAddExp(pk, math.floor(10 * givenexp * getDamageMapPercent(pk, cid)))
-elseif getPlayerLevel(pk) >= 351 then
 playerAddExp(pk, math.floor(5 * givenexp * getDamageMapPercent(pk, cid)))
+elseif getPlayerLevel(pk) >= 351 then
+playerAddExp(pk, math.floor(4 * givenexp * getDamageMapPercent(pk, cid)))
 return true end	  
    end       
 end
@@ -74,3 +69,4 @@ if corpse.itemid ~= 0 then   --alterado v1.8
 end
 return true
 end
+]]

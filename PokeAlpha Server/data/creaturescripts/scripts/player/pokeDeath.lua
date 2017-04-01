@@ -148,7 +148,7 @@ local lootListNow = {}
 			 doSendMsgInParty(cid, loot)
 			 if isStoneDroped then
 			    doSendMagicEffect(getThingPos(pWinnerLoot), 173, pWinnerLoot)
-				doSendMsg(pWinnerLoot, "Parabéns! O pokemon " .. pokeName .. " dropou uma stone!!!")
+				doSendMsg(pWinnerLoot, "Parabï¿½ns! O pokemon " .. pokeName .. " dropou uma stone!!!")
 				--- adicionar efeito em cima do loot
 			 end
 		  end
@@ -168,8 +168,8 @@ if not isCreature(cid) then return true end
 			  end
 		return true
 	end
-	doPlayerAddExp(cid, exp * 30)
-	doSendAnimatedText(getThingPos(cid), exp * 30, 215)
+	doPlayerAddExp(cid, exp*3)
+	doSendAnimatedText(getThingPos(cid), exp*3, 215)
 end
 
 function doSendMsgInParty(cid, loot)
@@ -197,7 +197,7 @@ function checkDirias(cid, nameDeath)
 		  if getCountNow >= 1 then
 		     doSendMsg(master, getNpcTaskName .. ": Faltam " .. getCountNow .. " " .. nameDeath .. (getCountNow > 1 and "s" or "") .. ".")
 		  else
-		     doSendMsg(master, getNpcTaskName .. ": Você já concluiu minha task venha pegar sua recompensa.")
+		     doSendMsg(master, getNpcTaskName .. ": Vocï¿½ jï¿½ concluiu minha task venha pegar sua recompensa.")
 		  end
 	   end
 	   
@@ -211,7 +211,7 @@ function checkDirias(cid, nameDeath)
 		  if getCountNow2 >= 1 then
 		     doSendMsg(master, getNpcTaskName2 .. ": Faltam " .. getCountNow2 .. " " .. nameDeath .. (getCountNow2 > 1 and "s" or "") .. ".")
 		  else
-		     doSendMsg(master, getNpcTaskName2 .. ": Você já concluiu minha task venha pegar sua recompensa.")
+		     doSendMsg(master, getNpcTaskName2 .. ": Vocï¿½ jï¿½ concluiu minha task venha pegar sua recompensa.")
 		  end
 	   end
 	   
@@ -225,7 +225,7 @@ function checkDirias(cid, nameDeath)
 		  if getCountNow3 >= 1 then
 		     doSendMsg(master, getNpcTaskName3 .. ": Faltam " .. getCountNow3 .. " " .. nameDeath .. (getCountNow3 > 1 and "s" or "") .. ".")
 		  else
-		     doSendMsg(master, getNpcTaskName3 .. ": Você já concluiu minha task venha pegar sua recompensa.")
+		     doSendMsg(master, getNpcTaskName3 .. ": Vocï¿½ jï¿½ concluiu minha task venha pegar sua recompensa.")
 		  end
 	   end
 	   
@@ -239,7 +239,7 @@ function checkDirias(cid, nameDeath)
 		  if getCountNow4 >= 1 then
 		     doSendMsg(master, getNpcTaskName4 .. ": Faltam " .. getCountNow4 .. " " .. nameDeath .. (getCountNow4 > 1 and "s" or "") .. ".")
 		  else
-		     doSendMsg(master, getNpcTaskName4 .. ": Você já concluiu minha task venha pegar sua recompensa.")
+		     doSendMsg(master, getNpcTaskName4 .. ": Vocï¿½ jï¿½ concluiu minha task venha pegar sua recompensa.")
 		  end
 	   end
 end

@@ -29,5 +29,8 @@ de mapa me avise, ai eu coloco online
 
 -- novo cliente (resolve problema dos NPCS) 
 	http://download1495.mediafire.com/6qspycd8v84g/i0ety29vyv971rz/DxP+Clientes.7z
+-- alterar experiencia (pokeDeath.lua, pokeexp.lua(não envolve mas contem script para diferenciação de lvl), 
+stages.xml) //verificar exatamente onde, pokeDeath.lua resolveu
+o problema, mas não completamente
 
 

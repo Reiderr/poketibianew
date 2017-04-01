@@ -1046,379 +1046,405 @@
 		<monster name="Donphan" x="0" y="1" z="6" spawntime="64" />
 	</spawn>
 	<spawn centerx="588" centery="680" centerz="6" radius="5">
-		<monster name="Golem" x="3" y="-2" z="6" spawntime="60" />
-		<monster name="Golem" x="-3" y="3" z="6" spawntime="60" />
+		<monster name="Onix" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Onix" x="-3" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="600" centery="688" centerz="6" radius="5">
-		<monster name="Rhydon" x="-3" y="0" z="6" spawntime="60" />
+		<monster name="Cleffa" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="696" centerz="6" radius="5">
-		<monster name="Golem" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Cleffa" x="-4" y="4" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="735" centery="696" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="-3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="744" centery="696" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="0" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="619" centery="699" centerz="6" radius="5">
+		<monster name="Cleffa" x="-4" y="-1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="1" y="-1" z="6" spawntime="60" />
 		<monster name="Rhydon" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="724" centery="699" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="757" centery="699" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="602" centery="702" centerz="6" radius="5">
-		<monster name="Rhydon" x="-2" y="1" z="6" spawntime="60" />
+	<spawn centerx="602" centery="702" centerz="6" radius="5" />
+	<spawn centerx="630" centery="703" centerz="6" radius="5">
+		<monster name="Cleffa" x="-3" y="1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="630" centery="703" centerz="6" radius="5" />
 	<spawn centerx="767" centery="705" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="715" centery="707" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="641" centery="708" centerz="6" radius="5" />
+	<spawn centerx="641" centery="708" centerz="6" radius="5">
+		<monster name="Cleffa" x="-2" y="2" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="594" centery="711" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="2" y="-4" z="6" spawntime="60" />
+		<monster name="Cleffa" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="776" centery="711" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-2" z="6" spawntime="60" />
+		<monster name="Machoke" x="1" y="-2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="649" centery="712" centerz="6" radius="5" />
+	<spawn centerx="649" centery="712" centerz="6" radius="5">
+		<monster name="Cleffa" x="2" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="784" centery="716" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="2" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="660" centery="717" centerz="6" radius="5" />
+	<spawn centerx="660" centery="717" centerz="6" radius="5">
+		<monster name="Cleffa" x="-3" y="-2" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="706" centery="717" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-2" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Machop" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="588" centery="719" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="2" z="6" spawntime="60" />
+		<monster name="Cleffa" x="-3" y="0" z="6" spawntime="60" />
+		<monster name="Cleffa" x="2" y="2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="668" centery="722" centerz="6" radius="5" />
+	<spawn centerx="668" centery="722" centerz="6" radius="5">
+		<monster name="Cleffa" x="-2" y="3" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="793" centery="724" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Machoke" x="2" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="697" centery="725" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machop" x="2" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="593" centery="728" centerz="6" radius="5">
-		<monster name="Golem" x="3" y="1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="689" centery="731" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Machop" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="680" centery="732" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machop" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="671" centery="733" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="800" centery="734" centerz="6" radius="5">
-		<monster name="Rhydon" x="2" y="2" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="602" centery="737" centerz="6" radius="5">
-		<monster name="Rhydon" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="-3" y="-2" z="6" spawntime="60" />
+		<monster name="Cleffa" x="4" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="744" centery="737" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="708" centery="739" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="-3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="733" centery="739" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="867" centery="740" centerz="6" radius="5">
-		<monster name="Rhydon" x="5" y="-4" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="876" centery="740" centerz="6" radius="5">
-		<monster name="Golem" x="5" y="4" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="666" centery="742" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="805" centery="742" centerz="6" radius="5">
-		<monster name="Golem" x="3" y="2" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="856" centery="742" centerz="6" radius="5">
-		<monster name="Golem" x="5" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Machoke" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="884" centery="744" centerz="6" radius="5" />
+	<spawn centerx="884" centery="744" centerz="6" radius="5">
+		<monster name="Machoke" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="722" centery="745" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="752" centery="745" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Clefable" x="3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="746" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="4" z="6" spawntime="60" />
+		<monster name="Cleffa" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Cleffa" x="-2" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="847" centery="746" centerz="6" radius="5">
-		<monster name="Rhydon" x="3" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="891" centery="747" centerz="6" radius="5">
-		<monster name="Golem" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Machamp" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="811" centery="749" centerz="6" radius="5">
-		<monster name="Rhydon" x="4" y="3" z="6" spawntime="60" />
+		<monster name="Machoke" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Machoke" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Machoke" x="5" y="4" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="839" centery="750" centerz="6" radius="5">
-		<monster name="Golem" x="2" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="662" centery="752" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="830" centery="752" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="-3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="901" centery="753" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="674" centery="754" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="760" centery="755" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="-1" z="6" spawntime="60" />
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="820" centery="755" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="920" centery="755" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="601" centery="758" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="-2" z="6" spawntime="60" />
-		<monster name="Rhydon" x="3" y="0" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="911" centery="758" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="-3" z="6" spawntime="60" />
+		<monster name="Machoke" x="1" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="685" centery="759" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="593" centery="761" centerz="6" radius="5">
-		<monster name="Golem" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-3" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="654" centery="761" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="0" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="695" centery="763" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="817" centery="764" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="609" centery="765" centerz="6" radius="5">
-		<monster name="Golem" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="768" centery="765" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="906" centery="765" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="704" centery="767" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="583" centery="768" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="-3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="617" centery="770" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="776" centery="770" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="644" centery="771" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="712" centery="771" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="727" centery="771" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="902" centery="771" centerz="6" radius="5">
-		<monster name="Golem" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="-3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="737" centery="774" centerz="6" radius="5">
-		<monster name="Golem" x="3" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="786" centery="776" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="626" centery="777" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="578" centery="778" centerz="6" radius="5">
-		<monster name="Golem" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="805" centery="778" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Clefable" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="895" centery="778" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="2" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="947" centery="778" centerz="6" radius="5">
-		<monster name="Rhydon" x="-5" y="-3" z="6" spawntime="60" />
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Rhydon" x="0" y="5" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="-3" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="635" centery="779" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Clefairy" x="2" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="721" centery="779" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="796" centery="782" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="0" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="939" centery="784" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Machamp" x="4" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="781" centery="785" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="708" centery="786" centerz="6" radius="5" />
+	<spawn centerx="708" centery="786" centerz="6" radius="5">
+		<monster name="Clefable" x="-3" y="2" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="582" centery="787" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="728" centery="787" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="889" centery="787" centerz="6" radius="5">
-		<monster name="Golem" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="639" centery="788" centerz="6" radius="5" />
+	<spawn centerx="639" centery="788" centerz="6" radius="5">
+		<monster name="Clefairy" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="590" centery="791" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="932" centery="794" centerz="6" radius="5">
-		<monster name="Rhydon" x="4" y="-4" z="6" spawntime="60" />
-		<monster name="Rhydon" x="-5" y="0" z="6" spawntime="60" />
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Machamp" x="0" y="-2" z="6" spawntime="60" />
+		<monster name="Machoke" x="-3" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="795" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="773" centery="795" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="883" centery="795" centerz="6" radius="5">
-		<monster name="Golem" x="-1" y="0" z="6" spawntime="60" />
+		<monster name="Machoke" x="0" y="-4" z="6" spawntime="60" />
+		<monster name="Machamp" x="2" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="702" centery="796" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="646" centery="798" centerz="6" radius="5">
-		<monster name="Rhydon" x="-4" y="-2" z="6" spawntime="60" />
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="597" centery="799" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="2" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="923" centery="799" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Machamp" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="802" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="2" z="6" spawntime="60" />
+		<monster name="Clefairy" x="2" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="741" centery="802" centerz="6" radius="5">
-		<monster name="Rhydon" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="877" centery="803" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Machamp" x="2" y="-1" z="6" spawntime="768" />
 	</spawn>
 	<spawn centerx="915" centery="803" centerz="6" radius="5">
-		<monster name="Rhydon" x="-2" y="-3" z="6" spawntime="60" />
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Machamp" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="656" centery="804" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-3" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="693" centery="804" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-3" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="707" centery="804" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="3" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="637" centery="805" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="769" centery="805" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="602" centery="807" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-4" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="3" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="906" centery="807" centerz="6" radius="5">
-		<monster name="Rhydon" x="-1" y="-3" z="6" spawntime="60" />
-		<monster name="Golem" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="664" centery="808" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="750" centery="808" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="886" centery="809" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Machamp" x="-1" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="758" centery="812" centerz="6" radius="5">
-		<monster name="Rhydon" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Clefable" x="1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="897" centery="812" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Machoke" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Machamp" x="-2" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="613" centery="813" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="0" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="628" centery="813" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
-		<monster name="Golem" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="684" centery="813" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="-3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="715" centery="813" centerz="6" radius="5">
-		<monster name="Rhydon" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="0" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="673" centery="814" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="606" centery="817" centerz="6" radius="5">
-		<monster name="Golem" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="0" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="621" centery="820" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefairy" x="-1" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1139" centery="820" centerz="6" radius="7">
 		<monster name="Geodude" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="757" centery="821" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="717" centery="824" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-1" y="-3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1111" centery="827" centerz="6" radius="5">
 		<monster name="Sandslash" x="-3" y="-3" z="6" spawntime="60" />
 		<monster name="Sandslash" x="3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="751" centery="831" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1150" centery="831" centerz="6" radius="7">
 		<monster name="Graveler" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="727" centery="834" centerz="6" radius="5">
-		<monster name="Rhydon" x="-2" y="-1" z="6" spawntime="60" />
-		<monster name="Golem" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="0" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1107" centery="834" centerz="6" radius="5">
 		<monster name="Sandslash" x="-3" y="-2" z="6" spawntime="60" />
@@ -1431,7 +1457,7 @@
 		<monster name="Geodude" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="757" centery="840" centerz="6" radius="5">
-		<monster name="Golem" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-2" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1211" centery="840" centerz="6" radius="7">
 		<monster name="Graveler" x="1" y="1" z="6" spawntime="60" />
@@ -1443,7 +1469,8 @@
 		<monster name="Geodude" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="744" centery="841" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Clefable" x="0" y="-3" z="6" spawntime="60" />
+		<monster name="Clefable" x="3" y="4" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1148" centery="841" centerz="6" radius="7">
 		<monster name="Geodude" x="0" y="1" z="6" spawntime="60" />
@@ -1452,7 +1479,7 @@
 		<monster name="Graveler" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="735" centery="844" centerz="6" radius="5">
-		<monster name="Rhydon" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="-2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1090" centery="844" centerz="6" radius="5">
 		<monster name="Sandslash" x="-5" y="-4" z="6" spawntime="60" />
@@ -1469,10 +1496,11 @@
 		<monster name="Graveler" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="756" centery="852" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Clefable" x="2" y="-3" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="743" centery="854" centerz="6" radius="5">
-		<monster name="Golem" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Clefable" x="-3" y="-1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1121" centery="856" centerz="6" radius="5">
 		<monster name="Dugtrio" x="3" y="-3" z="6" spawntime="60" />
@@ -2734,59 +2762,73 @@
 	</spawn>
 	<spawn centerx="1092" centery="648" centerz="7" radius="7" />
 	<spawn centerx="586" centery="679" centerz="7" radius="7">
-		<monster name="Rhydon" x="0" y="-4" z="7" spawntime="64" />
-		<monster name="Rhydon" x="0" y="6" z="7" spawntime="64" />
+		<monster name="Onix" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Graveler" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="3" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="592" centery="684" centerz="7" radius="7">
-		<monster name="Rhydon" x="3" y="-4" z="7" spawntime="64" />
-		<monster name="Rhydon" x="-1" y="6" z="7" spawntime="64" />
-	</spawn>
+	<spawn centerx="592" centery="684" centerz="7" radius="7" />
 	<spawn centerx="580" centery="686" centerz="7" radius="7">
-		<monster name="Rhydon" x="-3" y="-3" z="7" spawntime="64" />
+		<monster name="Graveler" x="3" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="590" centery="695" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="721" centery="702" centerz="7" radius="7" />
-	<spawn centerx="604" centery="706" centerz="7" radius="7" />
+	<spawn centerx="721" centery="702" centerz="7" radius="7">
+		<monster name="Zubat" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="604" centery="706" centerz="7" radius="7">
+		<monster name="Rhyhorn" x="-4" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="734" centery="707" centerz="7" radius="7">
-		<monster name="Graveler" x="-1" y="0" z="7" spawntime="64" />
+		<monster name="Golbat" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Zubat" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="707" centery="712" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="1" z="7" spawntime="64" />
+		<monster name="Golbat" x="6" y="-5" z="7" spawntime="60" />
+		<monster name="Zubat" x="-1" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="771" centery="713" centerz="7" radius="7">
-		<monster name="Graveler" x="-4" y="0" z="7" spawntime="64" />
+		<monster name="Zubat" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Golbat" x="2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="625" centery="715" centerz="7" radius="7">
-		<monster name="Graveler" x="0" y="2" z="7" spawntime="64" />
+		<monster name="Graveler" x="-2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="745" centery="715" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="1" z="7" spawntime="64" />
+		<monster name="Golbat" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Zubat" x="2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="613" centery="716" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Graveler" x="0" y="-3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="759" centery="718" centerz="7" radius="7" />
+	<spawn centerx="759" centery="718" centerz="7" radius="7">
+		<monster name="Golbat" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Zubat" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="903" centery="718" centerz="7" radius="7">
 		<monster name="Cleffa" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="783" centery="722" centerz="7" radius="7">
-		<monster name="Graveler" x="6" y="-1" z="7" spawntime="64" />
+		<monster name="Golbat" x="-3" y="-5" z="7" spawntime="60" />
+		<monster name="Golbat" x="-7" y="-1" z="7" spawntime="60" />
+		<monster name="Zubat" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Golbat" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Golbat" x="-6" y="7" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="636" centery="724" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Graveler" x="-1" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="698" centery="724" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="1" z="7" spawntime="64" />
-		<monster name="Rhyhorn" x="-4" y="3" z="7" spawntime="64" />
+		<monster name="Zubat" x="-1" y="3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="792" centery="724" centerz="7" radius="7" />
+	<spawn centerx="792" centery="724" centerz="7" radius="7">
+		<monster name="Golbat" x="5" y="5" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="889" centery="724" centerz="7" radius="7">
 		<monster name="Clefairy" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="771" centery="725" centerz="7" radius="7">
-		<monster name="Graveler" x="4" y="0" z="7" spawntime="64" />
+		<monster name="Zubat" x="1" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="917" centery="726" centerz="7" radius="7">
 		<monster name="Cleffa" x="-2" y="-1" z="7" spawntime="60" />
@@ -2795,16 +2837,17 @@
 		<monster name="Clefairy" x="2" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="684" centery="728" centerz="7" radius="7">
-		<monster name="Graveler" x="4" y="2" z="7" spawntime="64" />
+		<monster name="Geodude" x="2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="852" centery="728" centerz="7" radius="7">
 		<monster name="Cleffa" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="571" centery="729" centerz="7" radius="7">
-		<monster name="Graveler" x="2" y="5" z="7" spawntime="64" />
+		<monster name="Rhyhorn" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="-1" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="601" centery="729" centerz="7" radius="7">
-		<monster name="Graveler" x="2" y="3" z="7" spawntime="64" />
+		<monster name="Rhyhorn" x="2" y="-3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="869" centery="729" centerz="7" radius="7">
 		<monster name="Clefairy" x="-1" y="1" z="7" spawntime="60" />
@@ -2813,23 +2856,24 @@
 		<monster name="Clefairy" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="802" centery="731" centerz="7" radius="7">
-		<monster name="Graveler" x="0" y="3" z="7" spawntime="64" />
+		<monster name="Golbat" x="2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="709" centery="733" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="1" z="7" spawntime="64" />
+		<monster name="Zubat" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="645" centery="734" centerz="7" radius="7">
-		<monster name="Graveler" x="2" y="0" z="7" spawntime="64" />
+		<monster name="Graveler" x="2" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="579" centery="735" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="832" centery="736" centerz="7" radius="7" />
 	<spawn centerx="879" centery="736" centerz="7" radius="7">
 		<monster name="Cleffa" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="769" centery="737" centerz="7" radius="7">
-		<monster name="Graveler" x="-1" y="4" z="7" spawntime="64" />
+		<monster name="Zubat" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Zubat" x="-2" y="5" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="918" centery="738" centerz="7" radius="7">
 		<monster name="Cleffa" x="1" y="-1" z="7" spawntime="60" />
@@ -2838,50 +2882,61 @@
 		<monster name="Clefairy" x="1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="590" centery="740" centerz="7" radius="7">
-		<monster name="Graveler" x="-2" y="4" z="7" spawntime="64" />
+		<monster name="Rhyhorn" x="-2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="656" centery="741" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Graveler" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="0" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="674" centery="741" centerz="7" radius="7">
-		<monster name="Graveler" x="-1" y="0" z="7" spawntime="64" />
+		<monster name="Geodude" x="-3" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="906" centery="741" centerz="7" radius="7">
 		<monster name="Clefairy" x="2" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="598" centery="742" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="2" y="-3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="848" centery="742" centerz="7" radius="7">
 		<monster name="Cleffa" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="720" centery="743" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Golbat" x="-3" y="-5" z="7" spawntime="60" />
+		<monster name="Zubat" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Zubat" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="895" centery="744" centerz="7" radius="7">
 		<monster name="Clefairy" x="2" y="-7" z="7" spawntime="60" />
 		<monster name="Cleffa" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="818" centery="746" centerz="7" radius="7">
-		<monster name="Graveler" x="-4" y="-1" z="7" spawntime="64" />
+		<monster name="Golbat" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Golbat" x="-3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="942" centery="746" centerz="7" radius="7">
 		<monster name="Clefairy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="747" centerz="7" radius="7">
-		<monster name="Graveler" x="2" y="1" z="7" spawntime="64" />
+		<monster name="Zubat" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Golbat" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="755" centery="750" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Golbat" x="5" y="-2" z="7" spawntime="60" />
+		<monster name="Zubat" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="658" centery="751" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="3" y="0" z="7" spawntime="64" />
-		<monster name="Rhydon" x="-5" y="3" z="7" spawntime="64" />
+		<monster name="Geodude" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Geodude" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Graveler" x="-2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="892" centery="751" centerz="7" radius="7" />
-	<spawn centerx="713" centery="752" centerz="7" radius="7" />
+	<spawn centerx="713" centery="752" centerz="7" radius="7">
+		<monster name="Zubat" x="-2" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="743" centery="753" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="3" z="7" spawntime="64" />
+		<monster name="Zubat" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Zubat" x="7" y="7" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="859" centery="755" centerz="7" radius="7">
 		<monster name="Clefairy" x="2" y="-1" z="7" spawntime="60" />
@@ -2890,30 +2945,37 @@
 		<monster name="Clefairy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="591" centery="756" centerz="7" radius="7">
-		<monster name="Graveler" x="-1" y="-3" z="7" spawntime="64" />
+		<monster name="Rhyhorn" x="-3" y="-3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="646" centery="757" centerz="7" radius="7">
+		<monster name="Rhyhorn" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Geodude" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Geodude" x="5" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="826" centery="757" centerz="7" radius="7">
-		<monster name="Golem" x="-1" y="0" z="7" spawntime="64" />
+		<monster name="Golbat" x="-4" y="-2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="949" centery="757" centerz="7" radius="7">
 		<monster name="Cleffa" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="646" centery="758" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="670" centery="759" centerz="7" radius="7">
+		<monster name="Geodude" x="2" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="670" centery="759" centerz="7" radius="7" />
 	<spawn centerx="880" centery="759" centerz="7" radius="7">
 		<monster name="Clefairy" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="634" centery="760" centerz="7" radius="7" />
+	<spawn centerx="634" centery="760" centerz="7" radius="7">
+		<monster name="Rhyhorn" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="658" centery="760" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-3" y="6" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="961" centery="760" centerz="7" radius="7">
 		<monster name="Clefairy" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="705" centery="761" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-4" z="7" spawntime="60" />
+		<monster name="Zubat" x="0" y="-4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="982" centery="761" centerz="7" radius="7">
 		<monster name="Clefairy" x="-1" y="-1" z="7" spawntime="60" />
@@ -2921,15 +2983,18 @@
 	<spawn centerx="938" centery="762" centerz="7" radius="7">
 		<monster name="Cleffa" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="695" centery="763" centerz="7" radius="7" />
+	<spawn centerx="695" centery="763" centerz="7" radius="7">
+		<monster name="Zubat" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-6" y="7" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="580" centery="764" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-4" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="-4" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="923" centery="764" centerz="7" radius="7">
 		<monster name="Cleffa" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="745" centery="765" centerz="7" radius="7">
-		<monster name="Graveler" x="-3" y="-1" z="7" spawntime="64" />
+		<monster name="Zubat" x="-5" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="868" centery="766" centerz="7" radius="7">
 		<monster name="Cleffa" x="1" y="-1" z="7" spawntime="60" />
@@ -2939,24 +3004,25 @@
 	</spawn>
 	<spawn centerx="889" centery="767" centerz="7" radius="7" />
 	<spawn centerx="622" centery="769" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="Zubat" x="-2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="771" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="819" centery="771" centerz="7" radius="2">
 		<npc name="Nurse Chansey" x="0" y="1" z="7" spawntime="15" />
 		<npc name="Nurse" x="1" y="1" z="7" spawntime="15" />
 	</spawn>
 	<spawn centerx="571" centery="773" centerz="7" radius="7">
-		<monster name="Graveler" x="1" y="-2" z="7" spawntime="64" />
+		<monster name="Rhyhorn" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="689" centery="773" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="1" z="7" spawntime="60" />
-		<monster name="Rhyhorn" x="3" y="1" z="7" spawntime="768" />
+		<monster name="Geodude" x="-5" y="-4" z="7" spawntime="60" />
+		<monster name="Geodude" x="4" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="652" centery="774" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Machop" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="918" centery="774" centerz="7" radius="7">
 		<monster name="Clefairy" x="1" y="1" z="7" spawntime="60" />
@@ -2969,7 +3035,8 @@
 		<monster name="Cleffa" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="582" centery="777" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Zubat" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="928" centery="777" centerz="7" radius="7">
 		<monster name="Clefairy" x="2" y="0" z="7" spawntime="60" />
@@ -2981,15 +3048,21 @@
 		<monster name="Slowpoke" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="783" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Rhyhorn" x="5" y="-5" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="701" centery="783" centerz="7" radius="7" />
+	<spawn centerx="701" centery="783" centerz="7" radius="7">
+		<monster name="Machop" x="-3" y="-2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="945" centery="784" centerz="7" radius="7">
 		<monster name="Cleffa" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="641" centery="785" centerz="7" radius="7" />
+	<spawn centerx="641" centery="785" centerz="7" radius="7">
+		<monster name="Geodude" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="721" centery="785" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Machop" x="4" y="-5" z="7" spawntime="60" />
+		<monster name="Geodude" x="-3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1026" centery="785" centerz="7" radius="5">
 		<monster name="Krabby" x="1" y="2" z="7" spawntime="60" />
@@ -3017,10 +3090,10 @@
 		<monster name="Cleffa" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="597" centery="792" centerz="7" radius="7">
-		<monster name="Graveler" x="3" y="-1" z="7" spawntime="64" />
+		<monster name="Geodude" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="707" centery="792" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Machop" x="-2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1079" centery="792" centerz="7" radius="5">
 		<monster name="Slowpoke" x="0" y="2" z="7" spawntime="60" />
@@ -3048,16 +3121,20 @@
 		<monster name="Oddish" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Gloom" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="715" centery="798" centerz="7" radius="7" />
+	<spawn centerx="715" centery="798" centerz="7" radius="7">
+		<monster name="Zubat" x="3" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="999" centery="799" centerz="7" radius="6">
 		<monster name="Gloom" x="0" y="-3" z="7" spawntime="60" />
 		<monster name="Oddish" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="651" centery="800" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Machop" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="595" centery="801" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Zubat" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="3" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1100" centery="801" centerz="7" radius="6">
 		<monster name="Oddish" x="2" y="0" z="7" spawntime="60" />
@@ -3080,7 +3157,7 @@
 		<monster name="Gloom" x="0" y="6" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="721" centery="805" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1038" centery="805" centerz="7" radius="6">
 		<monster name="Oddish" x="3" y="-4" z="7" spawntime="60" />
@@ -3094,7 +3171,7 @@
 		<monster name="Oddish" x="5" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="669" centery="807" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Machop" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="990" centery="808" centerz="7" radius="6">
 		<monster name="Oddish" x="-1" y="0" z="7" spawntime="60" />
@@ -3103,9 +3180,7 @@
 	<spawn centerx="1110" centery="808" centerz="7" radius="6">
 		<monster name="Oddish" x="-1" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="600" centery="811" centerz="7" radius="7">
-		<monster name="Graveler" x="-2" y="-1" z="7" spawntime="64" />
-	</spawn>
+	<spawn centerx="600" centery="811" centerz="7" radius="7" />
 	<spawn centerx="1069" centery="811" centerz="7" radius="6">
 		<monster name="Gloom" x="-1" y="-6" z="7" spawntime="60" />
 		<monster name="Oddish" x="0" y="1" z="7" spawntime="60" />
@@ -3121,7 +3196,9 @@
 		<monster name="Gloom" x="-5" y="-3" z="7" spawntime="60" />
 		<monster name="Oddish" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="681" centery="815" centerz="7" radius="7" />
+	<spawn centerx="681" centery="815" centerz="7" radius="7">
+		<monster name="Machop" x="1" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="980" centery="816" centerz="7" radius="6">
 		<monster name="Gloom" x="0" y="-3" z="7" spawntime="60" />
 		<monster name="Oddish" x="0" y="1" z="7" spawntime="60" />
@@ -3147,26 +3224,34 @@
 		<monster name="Oddish" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="695" centery="818" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Machop" x="4" y="2" z="7" spawntime="60" />
+		<monster name="Machop" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="729" centery="818" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Geodude" x="0" y="-4" z="7" spawntime="60" />
+		<monster name="Zubat" x="3" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="654" centery="819" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-2" y="-1" z="7" spawntime="60" />
-		<monster name="Rhyhorn" x="-2" y="2" z="7" spawntime="768" />
+		<monster name="Geodude" x="5" y="-5" z="7" spawntime="60" />
+		<monster name="Geodude" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Zubat" x="-6" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="709" centery="819" centerz="7" radius="7" />
+	<spawn centerx="709" centery="819" centerz="7" radius="7">
+		<monster name="Machop" x="-1" y="-2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="887" centery="819" centerz="7" radius="7">
 		<monster name="Clefairy" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="994" centery="819" centerz="7" radius="6">
 		<monster name="Gloom" x="-2" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="723" centery="820" centerz="7" radius="7" />
+	<spawn centerx="723" centery="820" centerz="7" radius="7">
+		<monster name="Machop" x="-4" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="612" centery="821" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-1" y="1" z="7" spawntime="768" />
-		<monster name="Graveler" x="3" y="3" z="7" spawntime="64" />
+		<monster name="Machop" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Zubat" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1083" centery="821" centerz="7" radius="6">
 		<monster name="Gloom" x="3" y="-3" z="7" spawntime="60" />
@@ -3207,7 +3292,8 @@
 		<monster name="Diglett" x="2" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="751" centery="828" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Zubat" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="870" centery="828" centerz="7" radius="5">
 		<monster name="Koffing" x="-3" y="1" z="7" spawntime="60" />
@@ -3218,7 +3304,8 @@
 		<monster name="Oddish" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="624" centery="830" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Machop" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Zubat" x="7" y="7" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="976" centery="830" centerz="7" radius="6">
 		<monster name="Gloom" x="4" y="-5" z="7" spawntime="60" />
@@ -3233,7 +3320,7 @@
 		<monster name="Graveler" x="2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="652" centery="832" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1000" centery="832" centerz="7" radius="6">
 		<monster name="Oddish" x="-1" y="0" z="7" spawntime="60" />
@@ -3247,7 +3334,7 @@
 		<monster name="Paras" x="-3" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="764" centery="834" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Geodude" x="-3" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1029" centery="834" centerz="7" radius="6">
 		<monster name="Gloom" x="3" y="-6" z="7" spawntime="60" />
@@ -3303,7 +3390,7 @@
 		<monster name="Geodude" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="636" centery="837" centerz="7" radius="7">
-		<monster name="Graveler" x="0" y="3" z="7" spawntime="64" />
+		<monster name="Geodude" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="908" centery="837" centerz="7" radius="7">
 		<monster name="Cleffa" x="1" y="0" z="7" spawntime="60" />
@@ -3370,7 +3457,8 @@
 		<monster name="Diglett" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="646" centery="846" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="5" y="-4" z="7" spawntime="60" />
+		<monster name="Geodude" x="-3" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1170" centery="846" centerz="7" radius="5">
 		<monster name="Graveler" x="-5" y="-5" z="7" spawntime="60" />
@@ -3454,7 +3542,7 @@
 		<monster name="Diglett" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="638" centery="856" centerz="7" radius="7">
-		<monster name="Rhyhorn" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Geodude" x="-2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="838" centery="856" centerz="7" radius="5">
 		<monster name="Ekans" x="0" y="1" z="7" spawntime="60" />
@@ -3569,6 +3657,7 @@
 	<spawn centerx="627" centery="866" centerz="7" radius="5">
 		<monster name="Paras" x="4" y="0" z="7" spawntime="60" />
 		<monster name="Mankey" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Machop" x="1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1160" centery="866" centerz="7" radius="5">
 		<monster name="Geodude" x="0" y="0" z="7" spawntime="60" />
@@ -3589,6 +3678,7 @@
 		<monster name="Weepinbell" x="-1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="639" centery="867" centerz="7" radius="5">
+		<monster name="Machop" x="-2" y="-2" z="7" spawntime="60" />
 		<monster name="Paras" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="867" centerz="7" radius="5">
@@ -3697,7 +3787,6 @@
 		<monster name="Pichu" x="1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="578" centery="875" centerz="7" radius="5">
-		<monster name="Weepinbell" x="-4" y="-1" z="7" spawntime="60" />
 		<monster name="Weepinbell" x="2" y="2" z="7" spawntime="60" />
 		<monster name="Tangela" x="5" y="2" z="7" spawntime="60" />
 		<monster name="Bulbasaur" x="3" y="3" z="7" spawntime="60" />
@@ -3817,6 +3906,7 @@
 	<spawn centerx="570" centery="881" centerz="7" radius="5">
 		<monster name="Mankey" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Weepinbell" x="5" y="2" z="7" spawntime="60" />
+		<monster name="Weepinbell" x="2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="894" centery="881" centerz="7" radius="5">
 		<monster name="Ekans" x="-1" y="-1" z="7" spawntime="60" />
@@ -9479,11 +9569,72 @@
 		<monster name="Magmar" x="1" y="-1" z="7" spawntime="120" />
 		<monster name="Magby" x="2" y="-1" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="675" centery="776" centerz="8" radius="5">
+		<monster name="Marowak" x="1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="781" centerz="8" radius="5">
+		<monster name="Marowak" x="-4" y="-4" z="8" spawntime="60" />
+		<monster name="Marowak" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="717" centery="782" centerz="8" radius="5">
+		<monster name="Marowak" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="705" centery="788" centerz="8" radius="5">
+		<monster name="Marowak" x="-3" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="677" centery="790" centerz="8" radius="5">
+		<monster name="Marowak" x="2" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="661" centery="791" centerz="8" radius="5">
+		<monster name="Marowak" x="2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="794" centerz="8" radius="5">
+		<monster name="Marowak" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="737" centery="795" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="724" centery="799" centerz="8" radius="5">
+		<monster name="Marowak" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="800" centerz="8" radius="5">
+		<monster name="Marowak" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Marowak" x="-3" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1146" centery="801" centerz="8" radius="7">
 		<monster name="Marowak" x="-3" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="711" centery="802" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="680" centery="803" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Marowak" x="3" y="3" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1155" centery="803" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="630" centery="804" centerz="8" radius="5">
+		<monster name="Marowak" x="-1" y="-3" z="8" spawntime="60" />
+		<monster name="Marowak" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="665" centery="804" centerz="8" radius="5">
+		<monster name="Marowak" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="694" centery="805" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="807" centerz="8" radius="5">
+		<monster name="Cubone" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Cubone" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Cubone" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="740" centery="808" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="643" centery="810" centerz="8" radius="5">
+		<monster name="Marowak" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Marowak" x="-3" y="3" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1043" centery="810" centerz="8" radius="7">
 		<monster name="Marowak" x="1" y="1" z="8" spawntime="60" />
@@ -9492,15 +9643,48 @@
 		<monster name="Marowak" x="4" y="-3" z="8" spawntime="60" />
 		<monster name="Cubone" x="-3" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="660" centery="813" centerz="8" radius="5">
+		<monster name="Marowak" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="731" centery="814" centerz="8" radius="5">
+		<monster name="Marowak" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="685" centery="815" centerz="8" radius="5">
+		<monster name="Marowak" x="0" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="704" centery="815" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="815" centerz="8" radius="5">
+		<monster name="Marowak" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1136" centery="816" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="602" centery="817" centerz="8" radius="5">
+		<monster name="Golduck" x="-1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1071" centery="817" centerz="8" radius="7">
 		<monster name="Cubone" x="1" y="2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="629" centery="818" centerz="8" radius="5">
+		<monster name="Marowak" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Marowak" x="-3" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1052" centery="818" centerz="8" radius="7">
 		<monster name="Marowak" x="2" y="-5" z="8" spawntime="60" />
 		<monster name="Cubone" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="587" centery="820" centerz="8" radius="5">
+		<monster name="Golduck" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="820" centerz="8" radius="5">
+		<monster name="Cubone" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Cubone" x="-3" y="2" z="8" spawntime="60" />
+		<monster name="Cubone" x="2" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="673" centery="822" centerz="8" radius="5">
+		<monster name="Marowak" x="-3" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1092" centery="825" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="-1" z="8" spawntime="60" />
@@ -9508,23 +9692,65 @@
 	<spawn centerx="1123" centery="825" centerz="8" radius="7">
 		<monster name="Cubone" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="741" centery="826" centerz="8" radius="5">
+		<monster name="Marowak" x="-2" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1065" centery="826" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="602" centery="827" centerz="8" radius="5">
+		<monster name="Golduck" x="2" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="577" centery="828" centerz="8" radius="5">
+		<monster name="Golduck" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="729" centery="828" centerz="8" radius="5">
+		<monster name="Marowak" x="2" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1080" centery="828" centerz="8" radius="7">
 		<monster name="Cubone" x="2" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="642" centery="831" centerz="8" radius="5">
+		<monster name="Psyduck" x="2" y="-2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1059" centery="832" centerz="8" radius="7">
 		<monster name="Cubone" x="-5" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="564" centery="835" centerz="8" radius="5">
+		<monster name="Golduck" x="1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1113" centery="835" centerz="8" radius="7">
 		<monster name="Cubone" x="1" y="-2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="653" centery="836" centerz="8" radius="5">
+		<monster name="Psyduck" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="768" centery="836" centerz="8" radius="5">
+		<monster name="Cubone" x="-2" y="-3" z="8" spawntime="60" />
+		<monster name="Cubone" x="1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="628" centery="838" centerz="8" radius="5">
+		<monster name="Psyduck" x="1" y="-2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1089" centery="838" centerz="8" radius="7">
 		<monster name="Cubone" x="4" y="4" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="745" centery="840" centerz="8" radius="5" />
+	<spawn centerx="639" centery="841" centerz="8" radius="5">
+		<monster name="Psyduck" x="-2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="600" centery="842" centerz="8" radius="5">
+		<monster name="Golduck" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1126" centery="842" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="663" centery="843" centerz="8" radius="5">
+		<monster name="Psyduck" x="3" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="737" centery="843" centerz="8" radius="5">
+		<monster name="Cubone" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Marowak" x="1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1046" centery="843" centerz="8" radius="7">
 		<monster name="Cubone" x="5" y="-1" z="8" spawntime="60" />
@@ -9534,17 +9760,53 @@
 		<monster name="Cubone" x="2" y="3" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1092" centery="843" centerz="8" radius="5" />
+	<spawn centerx="567" centery="845" centerz="8" radius="5">
+		<monster name="Golduck" x="-3" y="-4" z="8" spawntime="60" />
+		<monster name="Golduck" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="846" centerz="8" radius="5">
+		<monster name="Psyduck" x="2" y="-2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1103" centery="847" centerz="8" radius="5">
 		<monster name="Cubone" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1068" centery="849" centerz="8" radius="7">
 		<monster name="Cubone" x="1" y="7" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="626" centery="852" centerz="8" radius="5">
+		<monster name="Golduck" x="1" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="745" centery="853" centerz="8" radius="5">
+		<monster name="Cubone" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Cubone" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="771" centery="853" centerz="8" radius="5">
+		<monster name="Cubone" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Cubone" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1134" centery="853" centerz="8" radius="7">
 		<monster name="Marowak" x="3" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="639" centery="854" centerz="8" radius="5">
+		<monster name="Psyduck" x="2" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="854" centerz="8" radius="5">
+		<monster name="Psyduck" x="3" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="571" centery="856" centerz="8" radius="5">
+		<monster name="Golduck" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="600" centery="856" centerz="8" radius="5">
+		<monster name="Golduck" x="-2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="856" centerz="8" radius="5">
+		<monster name="Psyduck" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1105" centery="858" centerz="8" radius="5">
 		<monster name="Cubone" x="0" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="614" centery="859" centerz="8" radius="5">
+		<monster name="Golduck" x="1" y="-2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1119" centery="861" centerz="8" radius="5">
 		<monster name="Marowak" x="-1" y="-2" z="8" spawntime="60" />
@@ -9552,26 +9814,125 @@
 	<spawn centerx="1062" centery="862" centerz="8" radius="7">
 		<monster name="Cubone" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="631" centery="864" centerz="8" radius="5">
+		<monster name="Psyduck" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="574" centery="865" centerz="8" radius="5">
+		<monster name="Golduck" x="3" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="588" centery="865" centerz="8" radius="5">
+		<monster name="Golduck" x="2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="866" centerz="8" radius="5">
+		<monster name="Cubone" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Cubone" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1110" centery="866" centerz="8" radius="5">
 		<monster name="Cubone" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="640" centery="869" centerz="8" radius="5">
+		<monster name="Psyduck" x="2" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="871" centerz="8" radius="5">
+		<monster name="Cubone" x="1" y="-3" z="8" spawntime="60" />
+		<monster name="Cubone" x="0" y="3" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1049" centery="872" centerz="8" radius="7">
 		<monster name="Cubone" x="1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1099" centery="874" centerz="8" radius="5" />
+	<spawn centerx="747" centery="879" centerz="8" radius="5">
+		<monster name="Cubone" x="3" y="-4" z="8" spawntime="60" />
+		<monster name="Cubone" x="-4" y="-2" z="8" spawntime="60" />
+		<monster name="Cubone" x="2" y="3" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1058" centery="882" centerz="8" radius="7">
 		<monster name="Cubone" x="-1" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1091" centery="883" centerz="8" radius="5">
 		<monster name="Cubone" x="2" y="-2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="696" centery="886" centerz="8" radius="5">
+		<monster name="Psyduck" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Slowbro" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Slowbro" x="1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="763" centery="886" centerz="8" radius="5">
+		<monster name="Cubone" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1084" centery="888" centerz="8" radius="5">
 		<monster name="Cubone" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="686" centery="890" centerz="8" radius="5">
+		<monster name="Psyduck" x="2" y="-4" z="8" spawntime="60" />
+		<monster name="Slowbro" x="-1" y="-3" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="2" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1071" centery="890" centerz="8" radius="7">
 		<monster name="Cubone" x="0" y="3" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1077" centery="893" centerz="8" radius="5" />
+	<spawn centerx="751" centery="894" centerz="8" radius="5">
+		<monster name="Cubone" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Cubone" x="3" y="4" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="699" centery="901" centerz="8" radius="5">
+		<monster name="Slowbro" x="-3" y="-1" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Psyduck" x="3" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="909" centerz="8" radius="5">
+		<monster name="Cubone" x="-1" y="-3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="700" centery="914" centerz="8" radius="5">
+		<monster name="Slowbro" x="1" y="-4" z="8" spawntime="60" />
+		<monster name="Psyduck" x="3" y="-2" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="-4" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="750" centery="915" centerz="8" radius="5">
+		<monster name="Cubone" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="741" centery="916" centerz="8" radius="5">
+		<monster name="Slowbro" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Slowbro" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="920" centerz="8" radius="5">
+		<monster name="Slowbro" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="2" y="1" z="8" spawntime="60" />
+		<monster name="Slowbro" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="714" centery="922" centerz="8" radius="5">
+		<monster name="Slowbro" x="-3" y="-4" z="8" spawntime="60" />
+		<monster name="Psyduck" x="1" y="-3" z="8" spawntime="60" />
+		<monster name="Slowpoke" x="3" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="672" centery="927" centerz="8" radius="5">
+		<monster name="Psyduck" x="-3" y="-3" z="8" spawntime="60" />
+		<monster name="Wartortle" x="-3" y="-1" z="8" spawntime="60" />
+		<monster name="Psyduck" x="3" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="717" centery="937" centerz="8" radius="5">
+		<monster name="Squirtle" x="0" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="672" centery="938" centerz="8" radius="5">
+		<monster name="Psyduck" x="-2" y="-3" z="8" spawntime="60" />
+		<monster name="Wartortle" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Psyduck" x="2" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="947" centerz="8" radius="5">
+		<monster name="Wartortle" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Psyduck" x="-2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="700" centery="949" centerz="8" radius="5">
+		<monster name="Psyduck" x="-1" y="2" z="8" spawntime="60" />
+		<monster name="Squirtle" x="4" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="955" centerz="8" radius="5">
+		<monster name="Squirtle" x="1" y="-4" z="8" spawntime="60" />
+		<monster name="Squirtle" x="-3" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="984" centery="985" centerz="8" radius="5">
 		<monster name="Raticate" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Rattata" x="3" y="1" z="8" spawntime="60" />
