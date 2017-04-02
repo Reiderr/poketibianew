@@ -254,7 +254,7 @@ shutdownAtGlobalSave = true
 cleanMapAtGlobalSave = false
 
 deSpawnRange = 2
-deSpawnRadius = 25
+deSpawnRadius = 10
 
 maxPlayerSummons = 1
 teleportAllSummons = true
