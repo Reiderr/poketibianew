@@ -33,4 +33,6 @@ de mapa me avise, ai eu coloco online
 stages.xml) //verificar exatamente onde, pokeDeath.lua resolveu
 o problema, mas não completamente
 
+-- bug com o preço da house, cobrado em 100 gold coins = 1 dolar (levar em consideração para preço)
+ necessário alterar na source o print com o valor
 
