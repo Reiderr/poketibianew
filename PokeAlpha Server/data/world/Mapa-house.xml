@@ -1,2 +1,18 @@
 <?xml version="1.0"?>
-<houses />
+<houses>
+	<house name="Unnamed House #1" houseid="1" entryx="573" entryy="1163" entryz="7" rent="0" townid="10" size="88" />
+	<house name="Unnamed House #2" houseid="2" entryx="567" entryy="1161" entryz="7" rent="0" townid="10" size="64" />
+	<house name="Unnamed House #3" houseid="3" entryx="573" entryy="1172" entryz="7" rent="0" townid="10" size="107" />
+	<house name="Unnamed House #6" houseid="6" entryx="563" entryy="1178" entryz="7" rent="0" townid="10" size="42" />
+	<house name="Unnamed House #7" houseid="7" entryx="553" entryy="1178" entryz="7" rent="0" townid="10" size="41" />
+	<house name="Unnamed House #8" houseid="8" entryx="553" entryy="1194" entryz="7" rent="0" townid="10" size="80" />
+	<house name="Unnamed House #9" houseid="9" entryx="573" entryy="1185" entryz="7" rent="0" townid="10" size="121" />
+	<house name="Unnamed House #10" houseid="10" entryx="583" entryy="1185" entryz="7" rent="0" townid="10" size="158" />
+	<house name="Unnamed House #11" houseid="11" entryx="565" entryy="1163" entryz="6" rent="0" townid="10" size="25" />
+	<house name="Unnamed House #12" houseid="12" entryx="0" entryy="0" entryz="0" rent="0" townid="10" size="35" />
+	<house name="Unnamed House #13" houseid="13" entryx="575" entryy="1162" entryz="6" rent="0" townid="10" size="0" />
+	<house name="Unnamed House #14" houseid="14" entryx="557" entryy="1176" entryz="6" rent="0" townid="10" size="30" />
+	<house name="Unnamed House #15" houseid="15" entryx="561" entryy="1172" entryz="6" rent="0" townid="10" size="30" />
+	<house name="Unnamed House #16" houseid="16" entryx="602" entryy="1188" entryz="6" rent="0" townid="10" size="120" />
+	<house name="Unnamed House #17" houseid="17" entryx="594" entryy="1200" entryz="7" rent="0" townid="10" size="171" />
+</houses>
