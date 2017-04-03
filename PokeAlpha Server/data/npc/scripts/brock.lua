@@ -1,20 +1,17 @@
 local focus = 0
-local max_distance = 10
+local max_distance = 8
 local talk_start = 0
 local conv = 0
 local fighting = false
 local challenger = 0
-local afk_limit_time = 300	-- seconds
+local afk_limit_time = 30	-- seconds
 local afk_time = 0		-- don't change
 local battle_turn = 1		-- don't change
 local challenger_turn = 0	-- don't change
 
 local pokemons = {
-{name = "Sudowoodo", optionalLevel = 400, sex = SEX_MALE, nick = "", ball = "normal"},
-{name = "Rhydon", optionalLevel = 300, sex = SEX_MALE, nick = "", ball = "normal"},   --alterado v1.3
-{name = "Steelix", optionalLevel = 400, sex = SEX_MALE, nick = "", ball = "normal"},
-{name = "Onix", optionalLevel = 300, sex = SEX_MALE, nick = "", ball = "normal"},
-{name = "Shiny Golem", optionalLevel = 300, sex = SEX_MALE, nick = "", ball = "normal"},
+{name = "Geodude", level = 10, extralevel = 0, sex = SEX_MALE, nick = "", ball = "normal"},
+{name = "Onix", level = 12, extralevel = 0, sex = SEX_MALE, nick = "", ball = "normal"},
 }
 
 
@@ -23,7 +20,7 @@ local function doSummonGymPokemon(npc)
 	if not isCreature(this) then return true end
 	if #getCreatureSummons(this) >= 1 or focus == 0 then return true end
 	local it = pokemons[battle_turn]
-	doSummonMonster(this, it.name)              
+	doSummonMonster(this, it.name)
 	local summon = getCreatureSummons(this)[1]
 	local balleffect = pokeballs["normal"].effect
 		if it.ball and pokeballs[it.ball] then
@@ -34,8 +31,8 @@ local function doSummonGymPokemon(npc)
 	setPlayerStorageValue(summon, 10001, gobackmsgs[math.random(#gobackmsgs)].back:gsub("doka", it.nick ~= "" and it.nick or it.name))
 	setPlayerStorageValue(summon, 1007, it.nick ~= "" and it.nick or it.name)
 	doSetMonsterGym(summon, focus)
-	addEvent(adjustWildPoke, 15, summon, it.optionalLevel)
-	local name = it.nick ~= "" and it.nick or getCreatureName(this).."s "..it.name    --alterado v1.3
+	local name = it.nick ~= "" and it.nick or getCreatureName(this).."s "..it.name
+	setWildPokemonLevel(summon, it.level, getPokemonStatus(it.name, (it.extralevel + it.level)), name, 1.5)
 	doCreatureSay(this, gobackmsgs[math.random(#gobackmsgs)].go:gsub("doka", getPlayerStorageValue(summon, 1007)), 1)
 	fighting = true
 	battle_turn = battle_turn + 1
@@ -46,9 +43,9 @@ local function doWinDuel(cid, npc)
 	local this = npc
 	local a = gymbadges[getCreatureName(this)] + 8
 	doCreatureSay(npc, "You won the duel! Congratulations, take this "..getItemNameById(a - 8).." as a prize.", 1)
+	setPlayerStorageValue(cid, 99951, 3)
 	local b = getPlayerItemById(cid, true, a)
 	if b.uid > 0 then doTransformItem(b.uid, b.itemid - 8) end
-doPlayerSendCancel(cid, "#getBadges# "..getCreatureName(this).." "..getPlayerItemCount(cid, gymbadges[getCreatureName(this)]))
 end
 
 function onCreatureSay(cid, type, msg)
@@ -75,7 +72,7 @@ function onCreatureSay(cid, type, msg)
 		--return true
 		--end
 
-		if not hasPokemon(cid) then
+		if hasPokemon(cid) then
 			selfSay("To battle agains't a gym leader you need pokemons.")
 		return true
 		end
@@ -147,11 +144,11 @@ function onThink()
 
 		if not isCreature(getCreatureTarget(getThis())) then
 			if #getCreatureSummons(challenger) >= 1 then
-				if getCreatureOutfit(getCreatureSummons(challenger)[1]).lookType ~= 2 then --alterado v1.6
+				if getCreatureOutfit(getCreatureSummons(challenger)[1]).lookType ~= 2 then --alterado v2.6
 				  selfAttackCreature(getCreatureSummons(challenger)[1])
 				  challenger_turn = challenger_turn + 1
 				  afk_time = 0
-	            end
+                end
 			else
 				afk_time = afk_time + 0.5
 				if change then

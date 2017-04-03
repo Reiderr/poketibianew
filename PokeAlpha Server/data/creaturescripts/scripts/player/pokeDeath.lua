@@ -79,7 +79,7 @@ local lootListNow = {}
     local countVirg = 0
 	for i, _ in pairs(lootList) do
 	    countVirg = countVirg + 1
-	    local id, count, chance = lootList[i].id, lootList[i].count, lootList[i].chance * 2
+	    local id, count, chance = lootList[i].id, lootList[i].count, lootList[i].chance -- alterado chance de drop(estava *2) | marcos
 		
 		---- X-Lucky
 		local heldx = getItemAttribute(getPlayerSlotItem(cid, 8).uid, "xHeldItem")
@@ -92,7 +92,7 @@ local lootListNow = {}
 		---- X-Lucky
 		
 		
-		local percent, lootCount = math.random(0.1, 100.9), math.random(1, count)
+		local percent, lootCount = math.random(0.1, 1000.9), math.random(1, count)--alterado porcentagem de drop(se ficar muito baixo, diminuir o valor 1000.9) | marcos
 		if (percent <= chance) then
 			if isStone(id) then
 			   isStoneDroped = true
@@ -162,8 +162,8 @@ if not isCreature(cid) then return true end
 		local partyExp = math.ceil(exp / #partyPlayers)
 			  for i = 1, #partyPlayers do
 				 if isPlayer(partyPlayers[i]) then
-				    doPlayerAddExp(partyPlayers[i], partyExp * 30)
-				    doSendAnimatedText(getThingPos(partyPlayers[i]), partyExp * 30, 215)
+				    doPlayerAddExp(partyPlayers[i], partyExp * 6)
+				    doSendAnimatedText(getThingPos(partyPlayers[i]), partyExp * 6, 215)
 				 end
 			  end
 		return true
