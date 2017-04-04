@@ -2668,10 +2668,6 @@
 	<spawn centerx="571" centery="1669" centerz="6" radius="7">
 		<monster name="Charmeleon" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="744" centery="189" centerz="7" radius="2">
-		<npc name="Nurse Chansey" x="0" y="1" z="7" spawntime="15" />
-		<npc name="Nurse" x="1" y="1" z="7" spawntime="15" />
-	</spawn>
 	<spawn centerx="1095" centery="535" centerz="7" radius="7">
 		<monster name="Slugma" x="-1" y="0" z="7" spawntime="64" />
 	</spawn>
@@ -5335,6 +5331,9 @@
 		<monster name="Oddish" x="0" y="-2" z="7" spawntime="60" />
 		<monster name="Bellsprout" x="-4" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1014" centery="998" centerz="7" radius="1">
+		<npc name="Guru" x="-1" y="-1" z="7" spawntime="67" />
+	</spawn>
 	<spawn centerx="1100" centery="998" centerz="7" radius="5">
 		<monster name="Oddish" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
@@ -5386,6 +5385,9 @@
 	<spawn centerx="927" centery="1007" centerz="7" radius="5">
 		<monster name="Tauros" x="4" y="4" z="7" spawntime="125" />
 	</spawn>
+	<spawn centerx="1025" centery="1007" centerz="7" radius="1">
+		<npc name="Guru" x="1" y="0" z="7" spawntime="67" />
+	</spawn>
 	<spawn centerx="1140" centery="1007" centerz="7" radius="5">
 		<monster name="Weepinbell" x="-4" y="-4" z="7" spawntime="60" />
 		<monster name="Bellsprout" x="1" y="-1" z="7" spawntime="60" />
@@ -5394,9 +5396,6 @@
 		<monster name="Tauros" x="-1" y="-2" z="7" spawntime="125" />
 		<monster name="Tangela" x="4" y="1" z="7" spawntime="60" />
 		<monster name="Sunkern" x="3" y="2" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1024" centery="1009" centerz="7" radius="1">
-		<npc name="Guru" x="1" y="1" z="7" spawntime="67" />
 	</spawn>
 	<spawn centerx="697" centery="1010" centerz="7" radius="5">
 		<monster name="Krabby" x="1" y="-4" z="7" spawntime="60" />
@@ -6909,9 +6908,6 @@
 		<npc name="Guru" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1030" centery="1180" centerz="7" radius="5" />
-	<spawn centerx="579" centery="1181" centerz="7" radius="5">
-		<npc name="Brock" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="607" centery="1181" centerz="7" radius="5">
 		<monster name="Caterpie" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
