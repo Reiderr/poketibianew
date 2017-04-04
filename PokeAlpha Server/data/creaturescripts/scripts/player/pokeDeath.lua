@@ -92,7 +92,7 @@ local lootListNow = {}
 		---- X-Lucky
 		
 		
-		local percent, lootCount = math.random(0.1, 1000.9), math.random(1, count)--alterado porcentagem de drop(se ficar muito baixo, diminuir o valor 1000.9) | marcos
+		local percent, lootCount = math.random(0.1, 400.9), math.random(1, count)--alterado porcentagem de drop(se ficar muito baixo, diminuir o valor 1000.9) | marcos
 		if (percent <= chance) then
 			if isStone(id) then
 			   isStoneDroped = true
