@@ -2668,6 +2668,10 @@
 	<spawn centerx="571" centery="1669" centerz="6" radius="7">
 		<monster name="Charmeleon" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="979" centery="159" centerz="7" radius="2">
+		<npc name="Nurse Chansey" x="-1" y="2" z="7" spawntime="15" />
+		<npc name="Nurse" x="0" y="2" z="7" spawntime="15" />
+	</spawn>
 	<spawn centerx="1095" centery="535" centerz="7" radius="7">
 		<monster name="Slugma" x="-1" y="0" z="7" spawntime="64" />
 	</spawn>
