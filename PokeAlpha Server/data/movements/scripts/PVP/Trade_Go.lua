@@ -9,6 +9,7 @@ local s = {
 [33691] = {id = 7}, -- Cinnabar
 [33697] = {id = 8}, -- viridian
 [33692] = {id = 9}, -- pewter
+[33690] = {id = 10}, -- pallet
 }
 
 function onStepIn(cid, item, pos)
@@ -16,7 +17,7 @@ if isSummon(cid) then
 return false
 end
 --
-local posi = {x=198, y=853, z=6} --posiçao do Trade Center...
+local posi = {x=976, y=190, z=7} --posiï¿½ao do Trade Center...
 local pos = s[item.actionid]
 local storage = 171877 
 --

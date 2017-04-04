@@ -6,7 +6,7 @@ local cdtele = 1
 
 local config = {
 premium = false, -- se precisa ser premium account (true or false)
-battle = false	-- se precisa estar sem battle (true). Se colocar false, poderá usar teleport no meio de batalhas
+battle = false	-- se precisa estar sem battle (true). Se colocar false, poderï¿½ usar teleport no meio de batalhas
 }
 
 local places = {
@@ -19,6 +19,7 @@ local places = {
 [7] = {name = "Cinnabar", id = 7, sto = 897536},
 [8] = {name = "viridian", id = 8, sto = 897537},          
 [9] = {name = "pewter", id = 9},
+[10] = {name = "pallet", id = 10},
 }
 
 

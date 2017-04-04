@@ -10,7 +10,7 @@
 	<movevent type="StepIn" actionid="25000" event="script" value="outlandtile1.lua"/>
 
 
-	<movevent type="StepIn" actionid="33691-33699" event="script" value="PVP/Trade_Go.lua"/>
+	<movevent type="StepIn" actionid="33690-33699" event="script" value="PVP/Trade_Go.lua"/>
 	<movevent type="StepIn" actionid="33799;33800-33808" event="script" value="PVP/Trade_Back.lua"/>
 	<movevent type="StepIn" uniqueid="15011-15014" event="script" value="shiny box.lua"/>
 	

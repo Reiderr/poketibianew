@@ -304,9 +304,11 @@ if not isPlayer(cid) then
 	doCreatureAddHealth(cid, -value)
 	doCastPassive(cid)
 	
+	--[[
 	if not isSummon(cid) and not isMega(cid) then -- virar mega
 	   checkChenceToMega(cid)
 	end
+	]]
 	
 	if isSummon(cid) then
 		-- otclient life

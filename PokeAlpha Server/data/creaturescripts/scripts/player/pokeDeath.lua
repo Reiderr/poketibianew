@@ -168,8 +168,29 @@ if not isCreature(cid) then return true end
 			  end
 		return true
 	end
-	doPlayerAddExp(cid, exp*3)
-	doSendAnimatedText(getThingPos(cid), exp*3, 215)
+
+	if getPlayerLevel(cid) <= 50 then
+		doPlayerAddExp(cid, exp*2)
+		doSendAnimatedText(getThingPos(cid), exp*2, 215)
+	elseif getPlayerLevel(cid) >= 51 and getPlayerLevel(cid) <= 75 then
+		doPlayerAddExp(cid, exp*1.3)
+		doSendAnimatedText(getThingPos(cid), exp*1.3, 215)
+	elseif getPlayerLevel(cid) >= 76 and getPlayerLevel(cid) <= 100 then
+		doPlayerAddExp(cid, exp*5)
+		doSendAnimatedText(getThingPos(cid), exp*5, 215)
+	elseif getPlayerLevel(cid) >= 101 and getPlayerLevel(cid) <= 150 then
+		doPlayerAddExp(cid, exp*4)
+		doSendAnimatedText(getThingPos(cid), exp*4, 215)
+	elseif getPlayerLevel(cid) >= 151 and getPlayerLevel(cid) <= 250 then
+		doPlayerAddExp(cid, exp*2)
+		doSendAnimatedText(getThingPos(cid), exp*2, 215)
+	elseif getPlayerLevel(cid) >= 251 and getPlayerLevel(cid) <= 350 then
+		doPlayerAddExp(cid, exp*1)
+		doSendAnimatedText(getThingPos(cid), exp*1, 215)
+	elseif getPlayerLevel(cid) >= 351 then
+		doPlayerAddExp(cid, exp*5)
+		doSendAnimatedText(getThingPos(cid), exp*5, 215)
+	end
 end
 
 function doSendMsgInParty(cid, loot)

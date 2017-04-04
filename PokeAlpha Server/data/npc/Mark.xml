@@ -17,7 +17,18 @@ great potion,12348,1000;
 ultra potion,12346,2200;
 hyper potion,12345,5000;
 full restore,12343,10000;
+grey backpack,2003,200000;
 revive,12344,25000;
+heavy ball,15672,50000;
+tale ball,15673,50000;
+moon ball,15674,50000;
+net ball,15675,50000;
+dive ball,15676,50000;
+magu ball,15677,50000;
+yume ball,15678,50000;
+dusk ball,15680,50000;
+tinker ball,15681,50000;
+fast ball,15682,50000;
 medicine,12349,1000;"/>
 <parameter key="shop_sellable" value= "electric box,12176,2000;
 sandbag,12177,2000;

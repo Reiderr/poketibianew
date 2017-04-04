@@ -5475,6 +5475,9 @@
 		<monster name="Oddish" x="-3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1087" centery="999" centerz="7" radius="5" />
+	<spawn centerx="817" centery="1000" centerz="7" radius="1">
+		<npc name="Hugh" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1113" centery="1001" centerz="7" radius="5">
 		<monster name="Oddish" x="2" y="-2" z="7" spawntime="60" />
 	</spawn>
@@ -5573,6 +5576,9 @@
 	<spawn centerx="525" centery="1018" centerz="7" radius="5">
 		<monster name="Nidoran Female" x="2" y="0" z="7" spawntime="60" />
 		<monster name="Nidoran Male" x="0" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="615" centery="1018" centerz="7" radius="1">
+		<npc name="Hugh" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="864" centery="1018" centerz="7" radius="5">
 		<monster name="Tauros" x="1" y="2" z="7" spawntime="60" />
@@ -5704,6 +5710,9 @@
 		<monster name="Gloom" x="-2" y="-3" z="7" spawntime="60" />
 		<monster name="Nidorino" x="1" y="0" z="7" spawntime="125" />
 		<monster name="Pidgey" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="1032" centerz="7" radius="1">
+		<npc name="Hugh" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1131" centery="1032" centerz="7" radius="5">
 		<monster name="Pidgey" x="0" y="-1" z="7" spawntime="60" />
@@ -8091,6 +8100,9 @@
 	</spawn>
 	<spawn centerx="875" centery="1365" centerz="7" radius="5">
 		<monster name="Nidoqueen" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1066" centery="1365" centerz="7" radius="1">
+		<npc name="Hugh" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="744" centery="1366" centerz="7" radius="5">
 		<monster name="Chikorita" x="0" y="-1" z="7" spawntime="60" />
