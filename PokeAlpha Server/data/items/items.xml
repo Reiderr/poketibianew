@@ -42,17 +42,49 @@
         <attribute key="containerSize" value="30" />
 	</item>
 	
-	<item id="15672" article="a" name="heavy ball"/>
-	<item id="15673" article="a" name="tale ball"/>
-	<item id="15674" article="a" name="moon ball"/>
-	<item id="15675" article="a" name="net ball"/>
-	<item id="15676" article="a" name="dive ball"/>
-	<item id="15677" article="a" name="magu ball"/>
-	<item id="15678" article="a" name="yume ball"/>
-	<item id="15679" article="a" name="premier ball"/>
-	<item id="15680" article="a" name="dusk ball"/>
-	<item id="15681" article="a" name="tinker ball"/>
-	<item id="15682" article="a" name="fast ball"/>
+	<item id="15672" article="a" name="heavy ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons pesados" />
+    </item>
+
+	<item id="15673" article="a" name="tale ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons dragao, fada" />
+    </item>
+
+	<item id="15674" article="a" name="moon ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons dark, ghost" />
+    </item>
+
+	<item id="15675" article="a" name="net ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons agua, inseto" />
+    </item>
+
+	<item id="15676" article="a" name="dive ball">
+        <attribute key="description" value="nao configurada" />
+    </item>
+
+	<item id="15677" article="a" name="magu ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons fogo, terra" />
+    </item>
+
+	<item id="15678" article="a" name="yume ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons normal, psiquico" />
+    </item>
+
+	<item id="15679" article="a" name="premier ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons veneno, planta (nao configurada corretamente)" />
+    </item>
+
+	<item id="15680" article="a" name="dusk ball">
+     <attribute key="description" value="Pokebola utilizada para capturar pokemons pedra, lutador" />
+    </item>
+
+	<item id="15681" article="a" name="tinker ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons eletrico, steel" />
+    </item>
+
+	<item id="15682" article="a" name="fast ball">
+        <attribute key="description" value="Pokebola utilizada para capturar pokemons rapidos" />
+    </item>
 	
 	<item fromid="16181" toid="16203" article="a" name="icon" >
 		  <attribute key="ispokeball" value="1"/>

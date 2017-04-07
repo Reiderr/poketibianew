@@ -1,12 +1,12 @@
 useOTClient = true  -- coloque false caso n for usar o OTClient!!!  --alterado v1.7
 
 useKpdoDlls = true -- coloque true pra usar as barras de cooldown.
-intervalToRegrowBushAndStones = 15 -- this also affects dig (in seconds) / isso afeta dig também (em segundos)
+intervalToRegrowBushAndStones = 15 -- this also affects dig (in seconds) / isso afeta dig tambï¿½m (em segundos)
 nurseHealsOnlyInPZ = true -- true = precisa estar em pz pra falar com a nurse
 accountManagerOutfit = {lookType = 304, lookHead = 1, lookBody = 1, lookLegs = 1, lookFeet = 1}
 accountManagerRandomPokemonOutfit = true -- se true, quando o acc manager logar, vai ter uma outfit de pokemon aleatoria
-reloadHighscoresWhenUsingPc = true -- talvez dê lag, lembrando que tem uma opção no config.lua que indica o intervalo do update das highscores
-backupPos = {x = 4, y = 3, z = 10} -- alguma pos para criar monstros quando tentar sair do fly/ride/surf em lugares que não são muito espaçosos
+reloadHighscoresWhenUsingPc = true -- talvez dï¿½ lag, lembrando que tem uma opï¿½ï¿½o no config.lua que indica o intervalo do update das highscores
+backupPos = {x = 4, y = 3, z = 10} -- alguma pos para criar monstros quando tentar sair do fly/ride/surf em lugares que nï¿½o sï¿½o muito espaï¿½osos
 nurseHealsPokemonOut = true
 maximumBoost = 50
 boost_rate = 3.5
@@ -513,7 +513,7 @@ pokeballs = {
 ["shiny zubat"] =      {effect = 188, on = 13611, use = 13612, off = 13613, all = {13611, 13612, 13613}},
 ["shuckle"] =      {effect = 188, on = 13614, use = 13615, off = 13616, all = {13614, 13615, 13616}},
 ["skarmory"] =      {effect = 188, on = 13617, use = 13618, off = 13619, all = {13617, 13618, 13619}},
-["skiploom"] =      {effect = 188, on = 13620, use = 13621, off = 13622, all = {13620, 13621, 13622}}, -------\/ diferença  nos numeros devido ao erro com o icon do golbat
+["skiploom"] =      {effect = 188, on = 13620, use = 13621, off = 13622, all = {13620, 13621, 13622}}, -------\/ diferenï¿½a  nos numeros devido ao erro com o icon do golbat
 ["slowbro"] =      {effect = 188, on = 13626, use = 13627, off = 13628, all = {13626, 13627, 13628}},
 ["slowking"] =      {effect = 188, on = 13629, use = 13630, off = 13631, all = {13629, 13630, 13631}},
 ["slowpoke"] =      {effect = 188, on = 13632, use = 13633, off = 13634, all = {13632, 13633, 13634}},
@@ -763,7 +763,7 @@ effectiveness = {
 -- defense = defense por level
 -- agility = speed base dos pokes
 -- specialattack = special attack que ganha por level
--- exp = exp que dá a cada level que tem (somada a exp base, no xml do poke)                 
+-- exp = exp que dï¿½ a cada level que tem (somada a exp base, no xml do poke)                 
 -- vitality = vida que o poke ganha pra cada vitality que tem
 
 function getPortraitClientID(pokeName)
@@ -1121,7 +1121,7 @@ fotos = {
 ["Ho-oh"] = 11386,
 ["Celebi"] = 11387,
 
-				------------ bagunçado
+				------------ bagunï¿½ado
 ["Shiny Stantler"] = 12607, --tem
 ["Shiny Umbreon"] = 12608, --tem
 ["Shiny Espeon"] = 12609, --tem
@@ -1255,7 +1255,7 @@ fotos = {
 ["Riolu"] = 14879,
 }      
 
-pokecatches = {
+pokecatches = { -- chance de caught de cada um dos pokemons
 ["Bulbasaur"] = {chance = 300, corpse = 5969},
 ["Ivysaur"] = {chance = 800, corpse = 5982},
 ["Venusaur"] = {chance = 1800, corpse = 5962},
@@ -2946,7 +2946,7 @@ pokesPrice = {
 ["Dragonair"] =  65000,
 ["Dragonite"] =  125000,
  
--- Segunda Geração
+-- Segunda Geraï¿½ï¿½o
 
 ["Chikorita"] = 3000,
 ["Bayleef"] = 8000,

@@ -3125,6 +3125,18 @@
 		<npc name="Nurse Chansey" x="-1" y="2" z="7" spawntime="15" />
 		<npc name="Nurse" x="0" y="2" z="7" spawntime="15" />
 	</spawn>
+	<spawn centerx="984" centery="160" centerz="7" radius="1">
+		<npc name="-MiniTask - Allan" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="169" centerz="7" radius="1">
+		<npc name="-MiniTask - Rosa" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="171" centerz="7" radius="1">
+		<npc name="-MiniTask - Ton" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="980" centery="174" centerz="7" radius="1">
+		<npc name="-MiniTask- Katarina" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1095" centery="535" centerz="7" radius="7">
 		<monster name="Slugma" x="-1" y="0" z="7" spawntime="64" />
 	</spawn>
@@ -6267,7 +6279,6 @@
 	</spawn>
 	<spawn centerx="1141" centery="1043" centerz="7" radius="7">
 		<monster name="Gastly" x="0" y="-3" z="7" spawntime="60" />
-		<monster name="Cubone" x="5" y="5" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="546" centery="1044" centerz="7" radius="5">
 		<monster name="Spearow" x="-3" y="-1" z="7" spawntime="60" />

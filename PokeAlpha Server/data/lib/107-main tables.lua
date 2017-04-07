@@ -155,18 +155,18 @@ heldVitality = {
 
 ---------------- configs gerais
 orderTalks = {
-	["ride"] = {talks = {", deixe-me mont�-lo.", ", vamos correr!"}, storage = 9800},
-	["fly"] = {talks = {", deixe-me mont�-lo.", ", vamos voar!"}, storage = 9801},
-	["levitate"] = {talks = {", deixe-me mont�-lo.", ", levitar!"}, storage = 9801},
-	["surf"] = {talks = {", deixe-me mont�-lo.", ", vamos surfar!"}, storage = 63215},
+	["ride"] = {talks = {", deixe-me monta-lo.", ", vamos correr!"}, storage = 9800},
+	["fly"] = {talks = {", deixe-me monta-lo.", ", vamos voar!"}, storage = 9801},
+	["levitate"] = {talks = {", deixe-me monta-lo.", ", levitar!"}, storage = 9801},
+	["surf"] = {talks = {", deixe-me monta-lo.", ", vamos surfar!"}, storage = 63215},
 	["dig"] = {talks = {", cave este buraco.", ", use o cavar!"}, storage = 9803},
-	["cut"] = {talks = {", corte esta �rvore.", ", use o cortar!"}, storage = 9804},
+	["cut"] = {talks = {", corte esta arvore.", ", use o cortar!"}, storage = 9804},
 	["rock"] = {talks = {", quebre esta rocha.", ", use o quebra rocha!"}, storage = 9805},
-	["headbutt"] = {talks = {", balance aquela �rvore.", ", bata naquela �rvore."}, storage = 9806},
+	["headbutt"] = {talks = {", balance aquela arvore.", ", bata naquela arvore."}, storage = 9806},
 	["move"] = {talks = {", mova-se!"}, storage = 0},
 	["blink"] = {talks = {", teletransporte.", ", use o teletransporte." }, storage = 0},
-	["gopoke"] = {talks = {", eu preciso de sua ajuda!", ", � hora da batalha!.", ", eu escolho voc�!" }, storage = 0},
-	["backpoke"] = {talks = {", obrigado.", ", bom trabalho.", ", j� chega. Volte!" }, storage = 0},
+	["gopoke"] = {talks = {", eu preciso de sua ajuda!", ", e hora da batalha!.", ", eu escolho voce!" }, storage = 0},
+	["backpoke"] = {talks = {", obrigado.", ", bom trabalho.", ", ja chega. Volte!" }, storage = 0},
 	["downability"] = {talks = {", deixe-me descer.", ", obrigado." }, storage = 0},
 }
 

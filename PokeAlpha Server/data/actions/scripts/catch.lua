@@ -13,7 +13,7 @@ local ballcatch = {                    --id normal, id da ball shiy
 [15673] = {cr = 18, on = 331, off = 332, ball = {16187, 16210}, send = 78, typeee = "tale", boost = "0", type = {"dragon", "fairy"}},
 [15674] = {cr = 18, on = 334, off = 335, ball = {16188, 16211}, send = 79, typeee = "moon", boost = "0", type = {"dark", "ghost"}},
 [15675] = {cr = 18, on = 337, off = 338, ball = {16189, 16212}, send = 80, typeee = "net", boost = "0", type = {"bug", "water"}},
-[15679] = {cr = 18, on = 343, off = 344, ball = {16191, 16214}, send = 82, typeee = "premier", boost = "0", type = {"rock", "fighting"}},
+[15679] = {cr = 18, on = 343, off = 344, ball = {16191, 16214}, send = 82, typeee = "premier", boost = "0", type = {"poison", "grass"}},
 [15681] = {cr = 18, on = 346, off = 347, ball = {16192, 16215}, send = 83, typeee = "tinker", boost = "0", type = {"electric", "steel"}},
 
 
@@ -63,7 +63,7 @@ local isInParyWithPlayer = false
 		 isInParyWithPlayer = isPartyEquals(pOwner, cid)
 	  end
 if owner and isCreature(pOwner) and isPlayer(pOwner) and cid ~= pOwner and not isInParyWithPlayer then   
-   doPlayerSendCancel(cid, "Desculpa. Isso não é possivel.")
+   doPlayerSendCancel(cid, "Desculpa. Isso nï¿½o ï¿½ possivel.")
    return true
 end
 
@@ -73,12 +73,12 @@ local boost = ballcatch[item.itemid].boost
 
 	local catchBlocks = {"Shiny Snorlax", "Aerodactyl"}
 	if isInArray(catchBlocks, name) then
-	    doSendMsg(cid, "Você não pode capturar este pokemon.")
+	    doSendMsg(cid, "Vocï¿½ nï¿½o pode capturar este pokemon.")
 		return true
 	end
 	
 	if typeee == "master" and isShinyName(name) then
-		doSendMsg(cid, "Você não pode capturar pokemon shiny com a master ball.")
+		doSendMsg(cid, "Vocï¿½ nï¿½o pode capturar pokemon shiny com a master ball.")
 		return true
 	end
 		
