@@ -1,6 +1,6 @@
 SERVIDOR ONLINE:
 
-http://35.185.124.255/pxg/index.php -- Pagina para criação de contas
+http://35.185.124.255/pokemon/index.html -- Pagina para criação de contas
 
 --ip do banco de dados : 35.185.124.255
 senha : 5vFhGWVf

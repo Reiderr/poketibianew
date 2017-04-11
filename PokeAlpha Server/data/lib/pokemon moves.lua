@@ -2784,7 +2784,7 @@ if team[name] then
        local pokeSourceCode = doCreateMonsterNick(master, name,retireShinyName(name), getThingPos(master), true)
 	   
 	   if pokeSourceCode == "Nao" then
-		   doSendMsg(master, "Não há espaço para seu pokemon.")
+		   doSendMsg(master, "Nï¿½o hï¿½ espaï¿½o para seu pokemon.")
 		   return true 
 		end	 
 	   
@@ -3430,7 +3430,7 @@ if getCreatureOutfit(cid).lookType == 1301 then
 print("Error occurred with move 'Elemental Hands', outfit of hitmonchan is wrong")
 doPlayerSendTextMessage(getCreatureMaster(cid), MESSAGE_STATUS_CONSOLE_BLUE, "A error are ocurred... A msg is sent to gamemasters!") 
 return true
-end        --proteçao pra n usar o move com o shiny hitmonchan com outfit diferente da do elite monchan do PO...
+end        --proteï¿½ao pra n usar o move com o shiny hitmonchan com outfit diferente da do elite monchan do PO...
 
 local e = getCreatureMaster(cid)
 local name = getItemAttribute(getPlayerSlotItem(e, 8).uid, "poke")
@@ -5057,7 +5057,7 @@ local OutFit = {
       
 	  if isMega(cid) then return true end
 	  
-      if getPlayerStorageValue(cid, 32623) == 1 then  --proteçao pra n usar a passiva 2x seguidas...
+      if getPlayerStorageValue(cid, 32623) == 1 then  --proteï¿½ao pra n usar a passiva 2x seguidas...
 	    setPlayerStorageValue(cid, 32623, 0)  
       return true
       end
@@ -5103,7 +5103,7 @@ local OutFit = {
          end
       end
       
-      local delay = 200 -- não mexe
+      local delay = 200 -- nï¿½o mexe
       local master = isSummon(cid) and getCreatureMaster(cid) or cid                    --alterado v1.6
       local summons = getCreatureSummons(master)                                          
       
@@ -5228,7 +5228,7 @@ local random = math.random(1, 3)
 
 elseif spell == "Stunning Confusion" then
 
-      if getPlayerStorageValue(cid, 32623) == 1 then  --proteçao pra n usar a spell 2x seguidas...
+      if getPlayerStorageValue(cid, 32623) == 1 then  --proteï¿½ao pra n usar a spell 2x seguidas...
       return true
       end
       
@@ -5238,11 +5238,11 @@ elseif spell == "Stunning Confusion" then
       end
       end
           
-      setPlayerStorageValue(cid, 32623, 1)        --proteçao
+      setPlayerStorageValue(cid, 32623, 1)        --proteï¿½ao
       for i = 1, 7 do
           addEvent(damage, i*500, cid)
       end
-      addEvent(setPlayerStorageValue, 3500, cid, 32623, 0)        --proteçao
+      addEvent(setPlayerStorageValue, 3500, cid, 32623, 0)        --proteï¿½ao
 	     setPlayerStorageValue(cid, 98654, 1)
       
 elseif spell == "Bone-Spin" then
@@ -5425,7 +5425,7 @@ if (not hitmonlees[nome] and isCreature(target)) or (isCreature(target) and math
       if getDistanceBetween(getThingPos(cid), getThingPos(target)) > 1 then
       return true
       end
-      if getPlayerStorageValue(cid, 32623) == 1 then  --proteçao pra n usar a passiva 2x seguidas...
+      if getPlayerStorageValue(cid, 32623) == 1 then  --proteï¿½ao pra n usar a passiva 2x seguidas...
       return true
       end
       
@@ -5435,7 +5435,7 @@ if (not hitmonlees[nome] and isCreature(target)) or (isCreature(target) and math
       
       local function doChangeHitmon(cid)
 	  if not isCreature(cid) then return true end
-         setPlayerStorageValue(cid, 32623, 0)         --proteçao
+         setPlayerStorageValue(cid, 32623, 0)         --proteï¿½ao
          if isSleeping(cid) and getMonsterInfo(getCreatureName(cid)).lookCorpse ~= 0 then
             doSetCreatureOutfit(cid, {lookType = 0, lookTypeEx = getMonsterInfo(getCreatureName(cid)).lookCorpse}, -1)
          else
@@ -5443,7 +5443,7 @@ if (not hitmonlees[nome] and isCreature(target)) or (isCreature(target) and math
          end
       end            
        
-         setPlayerStorageValue(cid, 32623, 1)       --proteçao
+         setPlayerStorageValue(cid, 32623, 1)       --proteï¿½ao
 		 setPlayerStorageValue(cid, 98654, 1)
          
          local look = hitmonlees[nome] or getPlayerStorageValue(cid, 21104)  --alterado v1.6
@@ -5656,7 +5656,7 @@ function doTransformMega(cid)
 		if wildMult == 1.5 then
 			local life = megasConf[megaName].wildVity * math.random(10000, 13500)
 			local lifeNow = getCreatureMaxHealth(cid) - getCreatureHealth(cid)
-				  setCreatureMaxHealth(cid, life) -- perfeita formula, os pokemons "ruins" só precisam de ajustes no pokemonStatus, tabela vitality.
+				  setCreatureMaxHealth(cid, life) -- perfeita formula, os pokemons "ruins" sï¿½ precisam de ajustes no pokemonStatus, tabela vitality.
 				  doCreatureAddHealth(cid, getCreatureMaxHealth(cid))
 				  doCreatureAddHealth(cid, -lifeNow)
 				  
@@ -5671,7 +5671,7 @@ function doTransformMega(cid)
 end
 
 function checkChenceToMega(cid)
-	local name, chance = doCorrectString(getCreatureName(cid)), math.random(0.1, 100.9)
+	local name, chance = doCorrectString(getCreatureName(cid)), math.random(0.1, 500.9) --chance do pokemon se torar um mega em mapa
 	local megaID = ""
 		  if name == "Charizard" then
 			 megaID = math.random(1, 100) < 51 and "Y" or "X"

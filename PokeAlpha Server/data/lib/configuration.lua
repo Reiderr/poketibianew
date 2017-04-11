@@ -1255,7 +1255,7 @@ fotos = {
 ["Riolu"] = 14879,
 }      
 
-pokecatches = { -- chance de caught de cada um dos pokemons
+pokecatches = { -- chance de caught de cada um dos pokemons(maior é mais dificil)
 ["Bulbasaur"] = {chance = 300, corpse = 5969},
 ["Ivysaur"] = {chance = 800, corpse = 5982},
 ["Venusaur"] = {chance = 1800, corpse = 5962},

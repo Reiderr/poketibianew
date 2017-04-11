@@ -183,7 +183,7 @@ if isGod(cid) then
 		  end
 		  
 		if getCreatureName(thing) == "[GM] WhyLose" then
-			table.insert(str, "\nEle é Main Jax.")
+			table.insert(str, "\nEle ï¿½ Main Jax.")
 		elseif getCreatureName(thing) == "[GM] Stigal" then
 			table.insert(str, "\nJoga a lanterna SUPORTE LIXO.")
 		elseif getCreatureName(thing) == "[GM] Lord Sorte" then
@@ -451,7 +451,7 @@ end
 return false
 end
 
-function getThingFromPosWithProtect(pos)  --Pega uma creatura numa posiçao com proteçoes
+function getThingFromPosWithProtect(pos)  --Pega uma creatura numa posiï¿½ao com proteï¿½oes
 if hasTile(pos) then
    if isCreature(getRecorderCreature(pos)) then
       return getRecorderCreature(pos)
@@ -465,7 +465,7 @@ end
 return pid
 end
 
-function getTileThingWithProtect(pos)    --Pega um TILE com proteçoes
+function getTileThingWithProtect(pos)    --Pega um TILE com proteï¿½oes
 if hasTile(pos) then
 pos.stackpos = 0
    pid = getTileThingByPos(pos)
@@ -592,7 +592,7 @@ end
 end
 
 db.executeQuery("UPDATE `accounts` SET `premdays` = '"..days.."' WHERE `accounts`.`id` = ".. getPlayerAccountId(cid) ..";")
-doPlayerSendTextMessage(cid,25,"Você será kickado em 5 segundos.")    
+doPlayerSendTextMessage(cid,25,"Vocï¿½ serï¿½ kickado em 5 segundos.")    
 addEvent(removerPlayer, 5*1000, cid)     
 return TRUE
 end
@@ -718,8 +718,7 @@ end
 bpslot = CONST_SLOT_BACKPACK
 
 function hasPokemon(cid)
-	if not isCreature(cid) then return false end
-	if getCreatureMana(cid) <= 0 then return false end
+	if not isCreature(cid) then selfSay("aqui") return false end
 	if #getCreatureSummons(cid) >= 1 then return true end
 	local item = getPlayerSlotItem(cid, CONST_SLOT_FEET)
 	local bp = getPlayerSlotItem(cid, bpslot)
@@ -730,7 +729,8 @@ function hasPokemon(cid)
         if #getItemsInContainerById(bp.uid, b.on) >= 1 then
         return true
         end
-	end
+    end
+    selfSay("aqui3")
 return false
 end
 

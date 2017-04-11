@@ -17,13 +17,13 @@ msg = string.lower(msg)
 local cfsto = {
 stoPr = 91230,  -- storage pra ele ir fala com o npc e volta !!
 stoCo = 91231,   -- storage q ele falou com a npc tudo certo
-StoM = 91232,  -- sto pra prox missão
+StoM = 91232,  -- sto pra prox missï¿½o
 stoAdd = 91233, -- sto q o npc de ceru deu pra ele q confirmo a msg
 }
 
 local storage = 91250   -- sto da quest completada inteira
 
--- \/ storages da missão 2
+-- \/ storages da missï¿½o 2
 local stoTwo = {
 sto1 = 91234, -- storage pra poder fala com ash
 sto2 = 91235, -- storage q diz q ele falou com ash
@@ -56,9 +56,9 @@ elseif (msgcontains(msg, 'yes') or msgcontains(msg, 'sim')) and talkState[talkUs
 selfSay("Very good, I am very grateful for helping me with this help I managed to finish my research and can find the formula of gvhd your pokemon stronger, I adptei this as the name of clan, you want to know more about this story?", cid)
 setPlayerStorageValue(cid, cfsto.StoM, 1)
 talkState[talkUser] = 5
---------------------- 1 * missão /\ -----
+--------------------- 1 * missï¿½o /\ -----
 --\\--
---- 2 * missão \/ ----
+--- 2 * missï¿½o \/ ----
 elseif (msgcontains(msg, 'missao') or msgcontains(msg, 'help')) and talkState[talkUser] == 1 then
                  if getPlayerStorageValue(cid, cfsto.stoM) <= 1 then
 	             selfSay("Sorry, you even helped me in the first mission!.", cid)
@@ -67,13 +67,13 @@ elseif (msgcontains(msg, 'missao') or msgcontains(msg, 'help')) and talkState[ta
 selfSay("I see a lot of interest on their part, need you Fasse me another favor, this interested?", cid)
 talkState[talkUser] = 2
 elseif (msgcontains(msg, 'yes') or msgcontains(msg, 'sim')) and talkState[talkUser] == 2 then
-selfSay("Ok, I'm already almost done my research officer clans, intão I need you to talk to ash he will speak to the attribute needed to finalize the clan, can you bring me this Feedback from the ash?", cid)
+selfSay("Ok, I'm already almost done my research officer clans, intï¿½o I need you to talk to ash he will speak to the attribute needed to finalize the clan, can you bring me this Feedback from the ash?", cid)
 talkState[talkUser] = 3
 elseif (msgcontains(msg, 'yes') or msgcontains(msg, 'sim')) and talkState[talkUser] == 2 then
 selfSay("Ok, I hope you do not make me wait too long.", cid)
 setPlayerStorageValue(cid, stoTwo.sto1, 1)
 talkState[talkUser] = 3
----- \/ entregando a missão
+---- \/ entregando a missï¿½o
 elseif (msgcontains(msg, 'help') or msgcontains(msg, 'help')) and talkState[talkUser] == 1 then
                  if getPlayerStorageValue(cid, stoTwo.sto2) <= 1 then
 	             selfSay("Sorry, you even helped me in the msg mission.", cid)
@@ -81,3 +81,4 @@ elseif (msgcontains(msg, 'help') or msgcontains(msg, 'help')) and talkState[talk
 	             end           
 selfSay("Our really good, I believe you are the best, when you are level 80 you can tonarsse a clan! thank you.", cid)
 setPlayerStorageValue(cid, storage, 1)
+end
