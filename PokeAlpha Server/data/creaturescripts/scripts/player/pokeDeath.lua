@@ -170,7 +170,7 @@ if not isCreature(cid) then return true end
 	end
 
 	if getPlayerLevel(cid) <= 50 then
-		doPlayerAddExp(cid, exp*2)
+		doPlayerAddExp(cid, exp*5)
 		doSendAnimatedText(getThingPos(cid), exp*2, 215)
 	elseif getPlayerLevel(cid) >= 51 and getPlayerLevel(cid) <= 75 then
 		doPlayerAddExp(cid, exp*1.3)
