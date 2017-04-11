@@ -10,6 +10,12 @@ function onUse(cid, item, frompos, item2, topos)
     estatua8 = 3844
     estatua9 = 3845
     estatua10 = 3846
+    estatua11 = 3847 --olivine
+    estatua12 = 3848 --mahogany
+    estatua13 = 3849 --newbark
+    estatua14 = 3850 --cherrygrove
+    estatua15 = 3851 --violet
+    estatua16 = 3852 --Blackthorn
 
     estatua = 3697 ---actionid das estatuas 
 
@@ -54,6 +60,32 @@ function onUse(cid, item, frompos, item2, topos)
     elseif  item.uid == estatua10 then
         doPlayerSetTown(cid, 9)
         doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Pewter.")
+
+    elseif  item.uid == estatua11 then
+        doPlayerSetTown(cid, 11)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Olivine.")
+
+    elseif  item.uid == estatua12 then
+        doPlayerSetTown(cid, 12)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Mahogany.")
+
+    elseif  item.uid == estatua13 then
+        doPlayerSetTown(cid, 13)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Newbark.")
+
+    elseif  item.uid == estatua14 then
+        doPlayerSetTown(cid, 14)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Cherrygrove.")
+
+    elseif  item.uid == estatua15 then
+        doPlayerSetTown(cid, 15)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Violet.")
+
+    elseif  item.uid == estatua16 then
+        doPlayerSetTown(cid, 16)
+        doPlayerSendTextMessage(cid,22,"Voce agora eh um cidadao de Blackthorn.")
+
+
 
 
     end

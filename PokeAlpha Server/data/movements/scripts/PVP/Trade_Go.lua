@@ -1,15 +1,22 @@
 local s = {
---[action id] = {pos de volta}
-[33694] = {id = 1}, -- saffron
-[33693] = {id = 2}, -- cerulean
-[33698] = {id = 3}, -- celadon
-[33699] = {id = 4}, -- Lavender
-[33695] = {id = 5}, -- vermillion
-[33696] = {id = 6}, -- fuchsia
-[33691] = {id = 7}, -- Cinnabar
-[33697] = {id = 8}, -- viridian
-[33692] = {id = 9}, -- pewter
-[33690] = {id = 10}, -- pallet
+    --[action id] = {pos de volta}
+    [33694] = {id = 1}, -- saffron
+    [33693] = {id = 2}, -- cerulean
+    [33698] = {id = 3}, -- celadon
+    [33699] = {id = 4}, -- Lavender
+    [33695] = {id = 5}, -- vermillion
+    [33696] = {id = 6}, -- fuchsia
+    [33691] = {id = 7}, -- Cinnabar
+    [33697] = {id = 8}, -- viridian
+    [33692] = {id = 9}, -- pewter
+    [33690] = {id = 10}, -- pallet
+    [33502] = {id = 11}, --olivine
+    [33503] = {id = 12}, --mahogany
+    [33504] = {id = 13}, --newbark
+    [33505] = {id = 14}, --Cherrygrove
+    [33506] = {id = 15}, --violet
+    [33507] = {id = 16}, --Blackthorn
+
 }
 
 function onStepIn(cid, item, pos)

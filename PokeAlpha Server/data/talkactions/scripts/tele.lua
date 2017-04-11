@@ -10,16 +10,23 @@ battle = false	-- se precisa estar sem battle (true). Se colocar false, poder�
 }
 
 local places = {
-[1] = {name = "saffron", id = 1, sto = 897530},
-[2] = {name = "cerulean", id = 2, sto = 897531},
-[3] = {name = "celadon", id = 3, sto = 897532},
-[4] = {name = "Lavender", id = 4, sto = 897533},
-[5] = {name = "vermillion", id = 5, sto = 897534},
-[6] = {name = "fuchsia", id = 6, sto = 897535},  --alterado v1.7
-[7] = {name = "Cinnabar", id = 7, sto = 897536},
-[8] = {name = "viridian", id = 8, sto = 897537},          
-[9] = {name = "pewter", id = 9},
-[10] = {name = "pallet", id = 10},
+	[1] = {name = "saffron", id = 1, sto = 897530},
+	[2] = {name = "cerulean", id = 2, sto = 897531},
+	[3] = {name = "celadon", id = 3, sto = 897532},
+	[4] = {name = "Lavender", id = 4, sto = 897533},
+	[5] = {name = "vermillion", id = 5, sto = 897534},
+	[6] = {name = "fuchsia", id = 6, sto = 897535},  --alterado v1.7
+	[7] = {name = "Cinnabar", id = 7, sto = 897536},
+	[8] = {name = "viridian", id = 8, sto = 897537},
+	[9] = {name = "pewter", id = 9},
+	[10] = {name = "pallet", id = 10},
+	[11] = {name = "olivine", id = 11},
+	[12] = {name = "mahogany", id = 12},
+	[13] = {name = "newbark", id = 13},
+	[14] = {name = "cherrygrove", id = 14},
+	[15] = {name = "violet", id = 15},
+	[16] = {name = "blackthorn", id = 16},
+
 }
 
 
