@@ -2163,7 +2163,7 @@
 		<attribute key="weight" value="20" />
 	</item>
 	<item id="2145" article="a" name="small diamond" plural="small diamonds">
-		<attribute key="weight" value="10" />
+		<attribute key="weight" value="0" />
 	</item>
 	<item id="2146" article="a" name="small sapphire" plural="small sapphires">
 		<attribute key="weight" value="10" />
@@ -2177,7 +2177,7 @@
 		<attribute key="description" value="One hundred of these can be converted in a hundred dollar note." />
 	</item>
 	<item id="2149" article="a" name="small emerald" plural="small emeralds">
-		<attribute key="weight" value="10" />
+		<attribute key="weight" value="0" />
 	</item>
 	<item id="2150" article="a" name="small amethyst" plural="small amethysts">
 		<attribute key="weight" value="10" />

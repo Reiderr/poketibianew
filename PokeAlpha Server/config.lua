@@ -205,7 +205,7 @@ playerQueryDeepness = 2
 maxItemsPerPZTile = 0
 maxItemsPerHouseTile = 0
 
-freePremium = true
+freePremium = false
 premiumForPromotion = true
 
 blessingOnlyPremium = true

@@ -29,6 +29,6 @@ function onExtendedOpcode(cid, opcode, buffer)
 				doPlayerSetSex(cid, (getPlayerSex(cid) == 0 and 1 or 0))
 			end
 		end
-		return doPlayerRemoveItem(cid, 2149, market[tonumber(t[2])].emeralds) and doSendPlayerExtendedOpcode(cid, OPCODE_EMERALD_SHOP, "True")
+		return doPlayerRemoveItem(cid, 2145, market[tonumber(t[2])].emeralds) and doSendPlayerExtendedOpcode(cid, OPCODE_EMERALD_SHOP, "True")
 	end
 end

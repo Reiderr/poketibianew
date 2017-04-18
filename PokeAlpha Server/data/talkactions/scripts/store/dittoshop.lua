@@ -4,7 +4,7 @@ local megasToPlayer = {
 }
 function onSay(cid, words, param)
  
-local diamond = 2149
+local diamond = 2145
 local price = 15
 local unique = false
 local boost = 0
