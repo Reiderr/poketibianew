@@ -27,7 +27,7 @@ function creatureSayCallback(cid, type, msg)
         return true
     end
     local configss = tasksss[value]
-    local final = tasksss.sto_final
+    local final = configss.sto_final
     local name = configss.name
     local m_sto = configss.sto
     local total_count = configss.count
