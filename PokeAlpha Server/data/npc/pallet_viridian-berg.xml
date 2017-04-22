@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Reporter" script="berg.lua" walkinterval="0" floorchange="0" speed="0">
+    <health now="150" max="150"/>
+    <look type="610" head="91" body="114" legs="86" feet="0"/>
+    <parameters>
+        <parameter key="message_greet" value="Meu deus do céu Berg!! Estou exausto de tanto correr, alguns voltorbs a direita daqui resolveram explodir e nos assustaram, você poderia dar cabo deles para continuarmos nossa matéria?"/>
+        <parameter key="message_farewell" value="Corre Berg!"/>
+        <parameter key="message_idletimeout" value="Corre Berg!"/>
+        <parameter key="message_walkaway" value="Corre Berg!"/>
+    </parameters>
+</npc>

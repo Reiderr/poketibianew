@@ -1,5 +1,5 @@
 ----------------------- TASK SYSTEM ------------------------  --alterado v1.7
-maxTasks = 30   --numero maximo de tasks q um player pode ter simultaniamente...  aconcelho 30~40maximo!
+maxTasks = 50   --numero maximo de tasks q um player pode ter simultaniamente...  aconcelho 30~40maximo!
 ---
 npcsTask = {   --["npc name"] = {"city do npc", "task", "reward"},
 

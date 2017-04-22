@@ -21,7 +21,7 @@ function BetaItem(cid)
 	if getPlayerStorageValue(cid, storages.betaStorage) == -1 then
 		addPokeToPlayer(cid, "Shiny Ditto", 0, nil, "poke", true)
 		setPlayerStorageValue(cid, storages.betaStorage, 1)
-		doSendMsg(cid, "Você ganhou um Shiny Ditto, uma TV Cam e uma Mega Stone para testalos a vontade.")
+		doSendMsg(cid, "Vocï¿½ ganhou um Shiny Ditto, uma TV Cam e uma Mega Stone para testalos a vontade.")
 		
 		item = doCreateItemEx(12330)
 		doItemSetAttribute(item, "unique", getCreatureName(cid))
@@ -118,6 +118,7 @@ function onLogin(cid)
 	 registerCreatureEvent(cid, "TradeRequest")
 	 registerCreatureEvent(cid, "TradeAccpet")
 	 registerCreatureEvent(cid, "pLoot")
+	 registerCreatureEvent(cid, "KillTask")
  --////// Eventos \\\\\\-- 
  
 	if(not isPlayerGhost(cid)) then

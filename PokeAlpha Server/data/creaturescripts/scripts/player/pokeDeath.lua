@@ -1,3 +1,6 @@
+
+
+
 function matou(cid, target)
 if isSummon(target) and isPlayer(getCreatureMaster(target)) then
  
@@ -18,7 +21,7 @@ end
 local nameDeath = doCorrectString(getCreatureName(target))
 local pos = getThingPos(target)
 local corpseID = getPokemonCorpse(nameDeath)
-local corpse = doCreateItem(corpseID, 1, pos) 
+local corpse = doCreateItem(corpseID, 1, pos)
 
 	if isSummon(cid) then
 		checkDirias(cid, nameDeath)
@@ -206,12 +209,17 @@ function doSendMsgInParty(cid, loot)
 end
 
 function checkDirias(cid, nameDeath)
+		local tasks = { -- alterar aqui para adicionar novas quests(seguir o mesmo formato, incrementando o numero entre [])
+			[1] = {npc = "Berg", name = "Voltorb",  sto = 10214, count = 20, sto_final = 14131, text = "Congratulations! You finished this task. In 24h, you will be able to do it again."},
+		}
+		local total = 1 -- numero total de quests, alterar quando adicionar mais quests
 
 	    local master = getCreatureMaster(cid)
 		local getNpcTaskName = getPlayerStorageValue(master, storages.miniQuests.storNpcTaskName)
 		local pokeTask1 = getPlayerStorageValue(master, storages.miniQuests.storPokeNameTask1)
 		local pokeCountTask1 = tonumber(getPlayerStorageValue(master, storages.miniQuests.storPokeCountTask1))
-		
+
+
 	   if pokeTask1 ~= -1 and pokeTask1 == nameDeath then
 		  setPlayerStorageValue(master, storages.miniQuests.storPokeCountTask1, pokeCountTask1 -1) 
 		  local getCountNow = tonumber(getPlayerStorageValue(master, storages.miniQuests.storPokeCountTask1))
@@ -221,7 +229,23 @@ function checkDirias(cid, nameDeath)
 		     doSendMsg(master, getNpcTaskName .. ": Voc� j� concluiu minha task venha pegar sua recompensa.")
 		  end
 	   end
-	   
+		--- colocar os NPCS DE QUEST AQUI!!! irei alterar para iterar entre todas as possiveis quests sozinho(foreach)
+         -- teste quest NPCs - berg
+		for k = 1,total do
+			local count = tonumber(getPlayerStorageValue(master,tasks[k].sto))
+			local final = tonumber(getPlayerStorageValue(master,tasks[k].sto_final))
+			if tasks[k].name ~= -1 and tasks[k].name == nameDeath then
+				setPlayerStorageValue(master, tasks[1].sto, count -1)
+				local getCount = tonumber(getPlayerStorageValue(master,tasks[1].sto))
+				if getCount >=1 then
+					doSendMsg(master, tasks[k].npc .. ": Faltam ".. getCount .. " " .. nameDeath .. (getCount > 1 and "s" or "") .. ".")
+				elseif final ~= 10 then
+					doSendMsg(master, tasks[k].npc .. ": Voce ja concluiu minha task venha pegar sua recompensa.")
+				end
+			end
+		end
+	   --- end npc quest
+
 	    local getNpcTaskName2 = getPlayerStorageValue(master, storages.miniQuests.storNpcTaskName2)
 		local pokeTask2 = getPlayerStorageValue(master, storages.miniQuests.storPokeNameTask2)
 		local pokeCountTask2 = tonumber(getPlayerStorageValue(master, storages.miniQuests.storPokeCountTask2))

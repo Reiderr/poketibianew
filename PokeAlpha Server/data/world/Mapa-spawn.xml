@@ -11056,7 +11056,9 @@
 		<monster name="Zubat" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Zubat" x="-5" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="573" centery="1101" centerz="7" radius="5" />
+	<spawn centerx="573" centery="1101" centerz="7" radius="5">
+		<npc name="pallet_viridian-berg_camera" x="-5" y="4" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="988" centery="1101" centerz="7" radius="5">
 		<monster name="Oddish" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Bellsprout" x="-4" y="2" z="7" spawntime="60" />
@@ -11085,6 +11087,9 @@
 	</spawn>
 	<spawn centerx="553" centery="1104" centerz="7" radius="5">
 		<monster name="Rattata" x="-1" y="-2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="568" centery="1104" centerz="7" radius="1">
+		<npc name="pallet_viridian-berg" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="940" centery="1104" centerz="7" radius="5">
 		<monster name="Gloom" x="3" y="-4" z="7" spawntime="60" />

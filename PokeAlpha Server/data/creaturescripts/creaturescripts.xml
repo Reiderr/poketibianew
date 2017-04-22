@@ -9,6 +9,7 @@
 	<event type="logout" name="PlayerLogout" event="script" value="player/logout.lua"/>
 	<event type="login" name="PlayerLogin" event="script" value="player/login.lua"/>
 	<event type="matou" name="Matou" event="script" value="player/pokeDeath.lua"/>
+	<event type="matou" name="KillTask" event="script" value="task.lua"/>
 	<event type="statschange" name="GeneralConfiguration" event="script" value="player/statsChange.lua"/>
 	<event type="writechannel" name="PartySystem" event="script" value="player/partySystem.lua"/>
 <!-- PXA to DxP -->
@@ -16,7 +17,7 @@
 	
 	<event type="joinchannel" name="ShowPokedex" event="script" value="newpokedex.lua"/>
 	<event type="leavechannel" name="ClosePokedex" event="script" value="newpokedex.lua"/>
-	<event type="kill" name="task_count" script="task.lua"/>
+	<event type="kill" name="KillTask" event="script" value="task.lua"/>
 	<event type="kill" name="dropStone" script="dropStone.lua"/>
 	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
 	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
