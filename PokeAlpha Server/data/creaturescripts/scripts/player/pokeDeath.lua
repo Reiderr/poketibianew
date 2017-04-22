@@ -210,7 +210,7 @@ end
 
 function checkDirias(cid, nameDeath)
 		local tasks = { -- alterar aqui para adicionar novas quests(seguir o mesmo formato, incrementando o numero entre [])
-			[1] = {npc = "Berg", name = "Voltorb",  sto = 10214, count = 20, sto_final = 14131, text = "Congratulations! You finished this task. In 24h, you will be able to do it again."},
+			[1] = {name = "Voltorb", sto_ini = 2000200,  sto = 1000214, count = 20, sto_final = 1400131, text = "Muito obrigado por sua ajuda, nao conseguia mais correr!."},
 		}
 		local total = 1 -- numero total de quests, alterar quando adicionar mais quests
 

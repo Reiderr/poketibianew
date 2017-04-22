@@ -1,7 +1,7 @@
 
 --- para adicionar a quest, alterar o nome do pokemon, alterar o sto_ini, sto, quantidade, sto_final e texto de conclusão da quest
 local tasksss = {
-       [1] = {name = "Voltorb", sto_ini= 20200,  sto = 10214, count = 20, sto_final = 14131, text = "Muito obrigado por sua ajuda, nao conseguia mais correr!."},
+       [1] = {name = "Voltorb", sto_ini= 2000200,  sto = 1000214, count = 20, sto_final = 1400131, text = "Muito obrigado por sua ajuda, nao conseguia mais correr!."},
 }
 
 local keywordHandler = KeywordHandler:new()
