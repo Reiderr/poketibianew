@@ -210,7 +210,7 @@ end
 
 function checkDirias(cid, nameDeath)
 		local tasks = { -- alterar aqui para adicionar novas quests(seguir o mesmo formato, incrementando o numero entre [])
-			[1] = {name = "Voltorb", sto_ini = 2000200,  sto = 1000214, count = 20, sto_final = 1400131, text = "Muito obrigado por sua ajuda, nao conseguia mais correr!."},
+			[1] = {npc ="Berg", name = "Voltorb", sto_ini = 2000200,  sto = 1000214, count = 20, sto_final = 1400131, text = "Muito obrigado por sua ajuda, nao conseguia mais correr!."},
 		}
 		local total = 1 -- numero total de quests, alterar quando adicionar mais quests
 
@@ -234,7 +234,7 @@ function checkDirias(cid, nameDeath)
 		for k = 1,total do
 			local count = tonumber(getPlayerStorageValue(master,tasks[k].sto))
 			local final = tonumber(getPlayerStorageValue(master,tasks[k].sto_final))
-			if tasks[k].name ~= -1 and tasks[k].name == nameDeath then
+			if tasks[k].name ~= -1 and tasks[k].name == nameDeath and (final~= 10) then
 				setPlayerStorageValue(master, tasks[1].sto, count -1)
 				local getCount = tonumber(getPlayerStorageValue(master,tasks[1].sto))
 				if getCount >=1 then
