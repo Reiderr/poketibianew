@@ -1,7 +1,5 @@
 pokes = {         
 ---////////// novos
-['Teste'] = {offense = 0, defense = 0, specialattack = 0, life = 15000, vitality = 5000000, agility = 0, exp = 0, level = 1, wildLvl = 1, type = 'normal', type2 = 'no type'},
-
 
 ['Treecko'] = {offense = 0.7, defense = 6, specialattack = 5, life = 1650, vitality = 3.5, agility = 190, exp = 90, level = 20, wildLvl = 30, type = 'grass', type2 = 'poison'},
 ['Grovyle'] = {offense = 1.2, defense = 7, specialattack = 8, life = 2550, vitality = 6.7, agility = 200, exp = 130, level = 40, wildLvl = 50, type = 'grass', type2 = 'poison'},
@@ -267,7 +265,7 @@ pokes = {
 
 ['Gardestriker Shiny Hitmonlee'] = {offense = 13.2, defense = 18.83, specialattack = 15.85, life = 5000, vitality = 25.5, agility = 180, exp = 152.9, level = 500, wildLvl = 300, type = 'fighting', type2 = 'no type'},
 
-['Hoppip'] = {offense = 0.6, defense = 4, specialattack = 3.5, life = 600, vitality = 3.5, agility = 180, exp = 74, level = 5, wildLvl = 5, type = 'grass', type2 = 'flying'},
+['Hoppip'] = {offense = 0.6, defense = 2, specialattack = 3.5, life = 500, vitality = 3.5, agility = 100, exp = 74, level = 5, wildLvl = 5, type = 'grass', type2 = 'flying'},
 
 ['Dunsparce'] = {offense = 0.9, defense = 14, specialattack = 6.5, life = 1150, vitality = 10, agility = 180, exp = 125, level = 30, wildLvl = 40, type = 'normal', type2 = 'no type'},
 

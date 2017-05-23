@@ -42,6 +42,32 @@ minHappyToEvolve = 0
 maxHappyToEvolve = 500
 happyLostOnDeath = 0
 happyGainedOnEvolution = 500
+
+
+-- storages dos tipos capturados
+stoGrass = 600020
+stoFire = 600021
+stoWater = 600022
+stoPoison = 600023
+stoDark = 600024
+stoPsy = 600025
+stoFairy = 600026
+stoInseto = 600027
+stoFly = 600028
+stoNormal = 600029
+stoGhost = 600030
+stoFight = 600031
+stoRock = 600032
+stoGroud = 600033
+stoSteel = 600034
+stoIce = 600035
+stoElectric = 600036
+stoDragon = 600037
+
+-- quantidade de tipos de cada clan
+GrassCount = 2
+
+
 happinessRate = {
 [5] = {rate = 1.5, effect = 183, n = getConfigValue(PokemonStageVeryHappy)},
 [4] = {rate = 1.2, effect = 170, n = getConfigValue(PokemonStageHappy)},
