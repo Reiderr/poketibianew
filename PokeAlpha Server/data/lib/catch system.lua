@@ -334,7 +334,8 @@ local cap = getPlayerFreeCap(cid)
 ---contagem caught de pokemons por tipo
 
 	local storage = newpokedex[poke].stoCatch
-    local statement = not string.find(getPlayerStorageValue(cid, storage), "magu")
+	local stoCatch = newpokedex[poke].stoCatch + 100000
+    local statement = getPlayerStorageValue(cid, newpokedex[poke].stoCatch + 100000) <= 0
 	--
 	if (pokes[poke].type == "grass" or pokes[poke].type2 == "grass") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
 		local contador = 0
@@ -345,6 +346,7 @@ local cap = getPlayerFreeCap(cid)
 		contador = getPlayerStorageValue(cid, stoGrass)
 		doSendMsg(cid, "voce capturou um pokemon do tipo planta agora sao "..(contador+1).." pokemons desse tipo capturados")
 		setPlayerStorageValue(cid, stoGrass, contador+1)
+		setPlayerStorageValue(cid, stoCatch, 1)
 	end
 
 
@@ -356,6 +358,7 @@ local cap = getPlayerFreeCap(cid)
 		contador = getPlayerStorageValue(cid, stoFire) --alterar
         doSendMsg(cid, "voce capturou um pokemon do tipo fogo agora sao "..(contador+1).." pokemons desse tipo capturados")
 		setPlayerStorageValue(cid, stoFire, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "water" or pokes[poke].type2 == "water") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -367,6 +370,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoWater) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo agua agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoWater, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "poison" or pokes[poke].type2 == "poison") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -377,6 +381,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoPoison) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo veneno agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoPoison, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "dark" or pokes[poke].type2 == "dark") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -387,6 +392,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoDark) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo dark agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoDark, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "psychic" or pokes[poke].type2 == "psychic") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -397,6 +403,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoPsy) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo psy agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoPsy, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "bug" or pokes[poke].type2 == "bug") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -407,6 +414,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoInseto) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo psy agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoInseto, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "flying" or pokes[poke].type2 == "flying") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -417,6 +425,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoFly) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo voador agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoFly, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "normal" or pokes[poke].type2 == "normal") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -427,6 +436,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoNormal) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo normal agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoNormal, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "ghost" or pokes[poke].type2 == "ghost") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -437,6 +447,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoGhost) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo fantasma agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoGhost, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "fighting" or pokes[poke].type2 == "fighting") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -447,6 +458,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoFight) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo lutador agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoFight, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "rock" or pokes[poke].type2 == "rock") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -457,6 +469,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoRock) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo pedra agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoRock, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "ground" or pokes[poke].type2 == "ground") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -467,6 +480,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoGround) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo terra agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoGround, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "steel" or pokes[poke].type2 == "steel") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -477,6 +491,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoSteel) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo steel agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoSteel, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "ice" or pokes[poke].type2 == "ice") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -487,6 +502,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoIce) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo gelo agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoIce, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "electric" or pokes[poke].type2 == "electric") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -497,6 +513,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoElectric) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo eletrico agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoElectric, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
     if (pokes[poke].type == "dragon" or pokes[poke].type2 == "dragon") and statement then --verifica o tipo do pokemon, e se ele ainda não foi capturado
@@ -507,6 +524,7 @@ local cap = getPlayerFreeCap(cid)
         contador = getPlayerStorageValue(cid, stoDragon) --alterar
 		doSendMsg(cid, "voce capturou um pokemon do tipo dragao agora sao "..(contador+1).." pokemons desse tipo capturados")
         setPlayerStorageValue(cid, stoDragon, contador+1) --alterar
+		setPlayerStorageValue(cid, stoCatch, 1)
     end
 
 ---end incremento de caught por tipo
